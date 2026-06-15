@@ -1,5 +1,31 @@
+# Python cache
 __pycache__/
 *.pyc
+*.pyo
+
+# Model weights (large files)
 *.pth
 *.data
+
+# Logs
 *.log
+
+# MoConVQ upstream (clone separately)
+MoConVQ/
+
+# Downloaded models
+Models/
+
+# Generated outputs
+out/
+
+# API keys
+DingHao/Generation/llm_config.py
+
+# Reports (not part of codebase)
+final_report/
+midterm_submission/
+
+# OS
+.DS_Store
+Thumbs.db
