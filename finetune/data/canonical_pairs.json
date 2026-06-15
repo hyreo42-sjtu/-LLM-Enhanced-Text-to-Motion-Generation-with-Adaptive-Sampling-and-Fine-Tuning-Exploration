@@ -1,0 +1,2517 @@
+{
+  "metadata": {
+    "total_pairs": 279,
+    "calm": 159,
+    "intense": 120,
+    "variants": 832,
+    "issues": 0
+  },
+  "pairs": {
+    "qf_ghost": {
+      "difficult": [
+        "Drift forward like a ghost, barely touching the ground.",
+        "Float ahead weightlessly as if made of mist.",
+        "Move like a specter gliding silently through a hallway."
+      ],
+      "canonical": "A person walks forward with very slow, light, quiet, silent steps, the body moving smoothly and evenly.",
+      "intensity": "calm"
+    },
+    "qf_ice": {
+      "difficult": [
+        "Walk as if crossing a frozen lake that might crack at any moment.",
+        "Step forward like each footfall could shatter the thin ice beneath you.",
+        "Move with the terrified caution of someone on a surface that could give way."
+      ],
+      "canonical": "A person walks forward very slowly with small careful steps, pausing still for a moment between each step.",
+      "intensity": "calm"
+    },
+    "qf_sleepwalk": {
+      "difficult": [
+        "Walk like a sleepwalker lost in a dream.",
+        "Move forward in a trance, arms floating up, eyes unfocused.",
+        "Shuffle ahead as if still half asleep, reaching toward nothing."
+      ],
+      "canonical": "A person walks forward very slowly with both arms reaching straight out ahead, the body swaying gently side to side.",
+      "intensity": "calm"
+    },
+    "qf_tiptoe": {
+      "difficult": [
+        "Sneak forward on your toes like a thief in a silent museum.",
+        "Creep ahead on tiptoes, freezing completely between each step.",
+        "Move without a sound, each foot placed down with excruciating care."
+      ],
+      "canonical": "A person walks forward on tiptoes very slowly, stopping still for a moment after each step before taking the next one.",
+      "intensity": "calm"
+    },
+    "qf_old_shuffle": {
+      "difficult": [
+        "Shuffle forward like a person who has lived a hundred years.",
+        "Walk with the tiny uncertain steps of extreme old age.",
+        "Move ahead slowly as if your bones might break with a wrong step."
+      ],
+      "canonical": "A person walks forward with very tiny slow shuffling steps, the body hunched slightly forward, feet staying close to the ground at all times.",
+      "intensity": "calm"
+    },
+    "qf_feather": {
+      "difficult": [
+        "Walk so lightly that a feather would not be crushed under your feet.",
+        "Step forward as if you weigh nothing at all.",
+        "Move with such delicacy that the floor would not know you passed."
+      ],
+      "canonical": "A person walks forward with extremely light, soft steps, each foot touching the ground very gently and quietly.",
+      "intensity": "calm"
+    },
+    "qf_quiet_step": {
+      "difficult": [
+        "Walk so quietly you can hear your own heartbeat.",
+        "Step ahead with the silent precision of someone who lives in a world of whispers.",
+        "Move forward making absolutely no sound with each footfall."
+      ],
+      "canonical": "A person walks forward placing each foot down very softly and slowly, taking careful deliberate quiet steps.",
+      "intensity": "calm"
+    },
+    "qf_balance_beam": {
+      "difficult": [
+        "Walk like a tightrope artist crossing a wire high above the ground.",
+        "Move forward with arms stretched wide, one foot directly in front of the other.",
+        "Balance your way forward as if a single misstep means a long fall."
+      ],
+      "canonical": "A person walks forward very slowly placing one foot directly in front of the other, both arms held straight out to the sides.",
+      "intensity": "calm"
+    },
+    "qf_beg": {
+      "difficult": [
+        "Walk forward with one hand reaching out palm up, asking silently for help.",
+        "Move ahead hunched and pitiful, a cupped hand extended in a plea.",
+        "Shuffle forward meekly with an outstretched hand begging for spare change."
+      ],
+      "canonical": "A person walks forward slowly with the body hunched, the right arm reaching forward with the palm open and facing upward.",
+      "intensity": "calm"
+    },
+    "qf_pray": {
+      "difficult": [
+        "Walk forward with hands pressed together at the chest, head bowed.",
+        "Move ahead slowly and solemnly as if approaching a sacred altar.",
+        "Step forward with the humble measured gait of someone entering a holy place."
+      ],
+      "canonical": "A person walks forward slowly with both palms pressed flat together at the chest, the head tilted slightly downward.",
+      "intensity": "calm"
+    },
+    "qf_read": {
+      "difficult": [
+        "Walk forward while holding an invisible book and reading intently.",
+        "Move ahead slowly with your head down, turning imaginary pages as you walk.",
+        "Stroll forward absorbed in a book, oblivious to the world around you."
+      ],
+      "canonical": "A person walks forward slowly while holding both hands in front at chest height, the head looking down at the hands.",
+      "intensity": "calm"
+    },
+    "qf_flower": {
+      "difficult": [
+        "Walk forward and bend down to pick imaginary flowers one by one.",
+        "Stroll ahead, stooping gracefully every few steps to pluck something from the ground.",
+        "Move through an invisible meadow, gathering blooms with gentle careful motions."
+      ],
+      "canonical": "A person walks forward, stops, bends down and reaches toward the ground with the right hand, then stands back up and keeps walking.",
+      "intensity": "calm"
+    },
+    "qf_mime_wall": {
+      "difficult": [
+        "Walk forward then press your hands against an invisible wall.",
+        "Move ahead, stop suddenly, and push against empty air as if it is solid glass.",
+        "Walk into an imaginary barrier and feel your way along it."
+      ],
+      "canonical": "A person walks forward a few steps, then stops and places both hands flat forward at chest height, pressing gently against the air in front.",
+      "intensity": "calm"
+    },
+    "qf_handoff": {
+      "difficult": [
+        "Walk forward and discreetly pass something to an invisible person beside you.",
+        "Move ahead, then turn slightly and extend your hand as if handing off a secret item.",
+        "Stroll forward casually then make a subtle handoff."
+      ],
+      "canonical": "A person walks forward, then extends the right hand to the side and opens the palm, then brings the hand back and keeps walking.",
+      "intensity": "calm"
+    },
+    "qf_camera": {
+      "difficult": [
+        "Walk forward in a low crouch, raising an imaginary camera to your eye.",
+        "Creep ahead slowly and lift your hands to frame an invisible shot.",
+        "Stalk forward carefully, then stop and hold very still to take a photo."
+      ],
+      "canonical": "A person walks forward crouched low, then stops still and raises both hands to the face, holding still for a moment.",
+      "intensity": "calm"
+    },
+    "qf_frozen_walk": {
+      "difficult": [
+        "Walk forward shivering violently with both arms wrapped tightly around your body.",
+        "Move ahead trembling as if caught in a blizzard, teeth chattering.",
+        "Shuffle forward hugging yourself, each step a battle against the biting cold."
+      ],
+      "canonical": "A person walks forward slowly with both arms wrapped around the body, the shoulders hunched up and the body shaking slightly.",
+      "intensity": "calm"
+    },
+    "qf_sore_back": {
+      "difficult": [
+        "Walk forward with one hand pressed against the lower back, every step a wince.",
+        "Move ahead stiffly as if your spine might snap, one hand bracing the painful spot.",
+        "Shuffle forward with the careful guarded gait of someone with a thrown-out back."
+      ],
+      "canonical": "A person walks forward very stiffly and slowly with one hand pressed against the lower back, the body leaning slightly to one side.",
+      "intensity": "calm"
+    },
+    "qf_broken_heel": {
+      "difficult": [
+        "Walk forward on the ball of one foot only, unable to let that heel touch the ground.",
+        "Move ahead with an uneven heel-up gait like someone with a broken shoe.",
+        "Step forward with one foot permanently raised at the heel, the other walking normally."
+      ],
+      "canonical": "A person walks forward keeping the right heel lifted off the ground, stepping only on the ball of the right foot while the left foot walks flat.",
+      "intensity": "calm"
+    },
+    "qf_dizzy": {
+      "difficult": [
+        "Walk forward swaying and stumbling as if the whole world is spinning.",
+        "Stagger ahead with the unsteady lurching gait of someone suffering vertigo.",
+        "Move forward reeling and careening as if the ground is tilting violently."
+      ],
+      "canonical": "A person walks forward swaying and wobbling from side to side, lurching unpredictably, both arms held out from the body for balance.",
+      "intensity": "calm"
+    },
+    "qf_heavy_load": {
+      "difficult": [
+        "Walk forward as if carrying a massive weight on your shoulders.",
+        "Move ahead slowly with the labored steps of someone bearing an invisible burden.",
+        "Trudge forward with your whole body pressed down by an enormous unseen load."
+      ],
+      "canonical": "A person walks forward slowly with the knees deeply bent, the body compressed downward, taking heavy labored steps.",
+      "intensity": "calm"
+    },
+    "qf_sprained_ankle": {
+      "difficult": [
+        "Walk forward with a heavy limp, the right foot barely touching the ground.",
+        "Hobble ahead wincing, putting almost no weight on one leg.",
+        "Move forward favoring one side dramatically, each step a visible struggle."
+      ],
+      "canonical": "A person walks forward limping heavily, the right foot touching the ground only very lightly and briefly before lifting again.",
+      "intensity": "calm"
+    },
+    "qf_blind_reach": {
+      "difficult": [
+        "Walk forward very slowly with both hands reaching ahead, feeling your way through total darkness.",
+        "Step ahead cautiously with arms outstretched, probing the void for obstacles.",
+        "Move forward blindly, fingertips brushing the air before you like whiskers."
+      ],
+      "canonical": "A person walks forward very slowly with both arms reaching straight ahead, the hands sweeping gently from side to side.",
+      "intensity": "calm"
+    },
+    "qf_stepping_stones": {
+      "difficult": [
+        "Jump from one invisible stepping stone to another across an imaginary stream.",
+        "Leap carefully from spot to spot, balancing briefly on each foot between jumps.",
+        "Hop forward in a zigzag, landing on one foot then the other."
+      ],
+      "canonical": "A person hops forward from the left foot to the right foot in a zigzag pattern, pausing balanced on each foot between hops.",
+      "intensity": "calm"
+    },
+    "qf_cat_stalk": {
+      "difficult": [
+        "Stalk forward like a cat hunting a bird, each paw placed in perfect silence.",
+        "Creep ahead with feline grace, body low and coiled, movements fluid and silent.",
+        "Move forward one painstakingly slow step at a time like a predator closing in."
+      ],
+      "canonical": "A person walks forward very slowly with the body crouched low, each foot placed down with deliberate careful silence, pausing between steps.",
+      "intensity": "calm"
+    },
+    "qf_scared_search": {
+      "difficult": [
+        "Walk forward hesitantly, whipping your head left and right as if something is chasing you.",
+        "Move ahead with fearful jerky steps, constantly checking over both shoulders.",
+        "Step forward timidly while your head swivels in all directions searching for danger."
+      ],
+      "canonical": "A person walks forward slowly with small hesitant steps, quickly turning the head to look left then right then left again.",
+      "intensity": "calm"
+    },
+    "qf_conductor": {
+      "difficult": [
+        "Stand and direct an invisible orchestra with passionate sweeping gestures.",
+        "Wave both arms in complex rhythmic patterns like a great maestro.",
+        "Conduct a symphony in the empty air with wild baton flourishes."
+      ],
+      "canonical": "A person stands in place and waves both arms in wide sweeping circles, the right arm moving faster and the left arm moving slower.",
+      "intensity": "calm"
+    },
+    "qf_gardener": {
+      "difficult": [
+        "Crouch down and dig small holes with one hand while planting invisible seeds with the other.",
+        "Squat low, poke at the ground, and gently place something into each hole.",
+        "Work your way forward in a crouch, tending to an imaginary garden."
+      ],
+      "canonical": "A person crouches down, pokes the right index finger at the ground in front, then places something down gently with the left hand before standing up.",
+      "intensity": "calm"
+    },
+    "qf_painter": {
+      "difficult": [
+        "Stand and sweep your arm in long smooth arcs as if applying paint to a giant canvas.",
+        "Move your hand in flowing circular strokes like an artist creating a masterpiece.",
+        "Coat an invisible wall with color using broad graceful sweeps of your arm."
+      ],
+      "canonical": "A person stands facing forward and moves the right arm in wide smooth circles, sweeping up and down slowly.",
+      "intensity": "calm"
+    },
+    "qf_robot": {
+      "difficult": [
+        "March forward like a robot with stiff mechanical joints.",
+        "Walk like a machine, each limb moving in abrupt jerky clicks.",
+        "Stomp ahead with rigid robotic motions, arms swinging like metal pendulums."
+      ],
+      "canonical": "A person walks forward with very stiff straight legs, the arms swinging in short abrupt motions, the body held completely rigid and upright.",
+      "intensity": "intense"
+    },
+    "qf_zombie": {
+      "difficult": [
+        "Lurch forward like a zombie rising from the grave.",
+        "Shamble ahead with one leg dragging, arms reaching out hungrily.",
+        "Stagger forward with the unsteady gait of the living dead."
+      ],
+      "canonical": "A person walks forward dragging the right leg behind, both arms reaching straight forward, the body swaying heavily side to side.",
+      "intensity": "intense"
+    },
+    "qf_gorilla": {
+      "difficult": [
+        "Stomp forward like a silverback gorilla asserting dominance.",
+        "Lumber ahead with massive power, arms swinging low and wide, each step a thunderous statement.",
+        "Walk on your knuckles, chest puffed, pounding the ground with weight."
+      ],
+      "canonical": "A person walks forward with the body hunched low, both arms swinging in wide heavy arcs, each step stomping down hard on the ground.",
+      "intensity": "intense"
+    },
+    "qf_dinosaur": {
+      "difficult": [
+        "Charge forward like a Tyrannosaurus Rex, each footfall shaking the ground.",
+        "Run ahead with tiny arms and huge thunderous steps.",
+        "Stomp forward with the earth-shaking gait of a giant predator."
+      ],
+      "canonical": "A person runs forward with huge heavy stomping steps, the body leaning far forward, both arms held tucked close against the chest.",
+      "intensity": "intense"
+    },
+    "qf_berserker": {
+      "difficult": [
+        "Charge forward in a blind rage, swinging both arms wildly overhead.",
+        "Storm ahead with uncontrolled fury, every muscle tensed for violence.",
+        "Run forward like a berserker, screaming silently with fists raised high."
+      ],
+      "canonical": "A person runs forward aggressively with both arms raised high and swinging wildly, the body surging forward with force.",
+      "intensity": "intense"
+    },
+    "qf_sprint_finish": {
+      "difficult": [
+        "Sprint the final meters of a race, chest thrust forward to break the tape.",
+        "Run at maximum speed, leaning forward desperately toward the finish line.",
+        "Dash ahead with every ounce of energy, arms pumping, legs burning."
+      ],
+      "canonical": "A person sprints forward at top speed with the body leaning far forward, both arms pumping hard and fast at the sides.",
+      "intensity": "intense"
+    },
+    "qf_fleeing": {
+      "difficult": [
+        "Run forward while looking back over your shoulder in pure terror.",
+        "Sprint ahead desperately, glancing behind every few strides at an unseen pursuer.",
+        "Flee forward in panic, stumbling and catching yourself as you run."
+      ],
+      "canonical": "A person runs forward quickly while turning the upper body to look back over the right shoulder several times.",
+      "intensity": "intense"
+    },
+    "qf_bull": {
+      "difficult": [
+        "Charge forward headfirst like an enraged bull about to gore its target.",
+        "Run with your head lowered, body barreling ahead with unstoppable momentum.",
+        "Sprint forward as if about to ram into something with full destructive force."
+      ],
+      "canonical": "A person runs forward with the head lowered and the body hunched forward, charging ahead with heavy forceful steps.",
+      "intensity": "intense"
+    },
+    "qf_soldier_low": {
+      "difficult": [
+        "Run forward in a low crouch as if storming an enemy position under fire.",
+        "Dash ahead hunched over, moving fast and low like a soldier in combat.",
+        "Sprint forward bent at the waist, weaving slightly as if dodging bullets."
+      ],
+      "canonical": "A person runs forward with the body crouched very low, taking quick short rapid steps, the head ducked down.",
+      "intensity": "intense"
+    },
+    "qf_kick_high": {
+      "difficult": [
+        "Deliver a powerful martial arts kick, leg snapping out at waist height.",
+        "Spin slightly and lash out with a fast high kick that could break boards.",
+        "Chamber the knee then snap the foot forward in a devastating front kick."
+      ],
+      "canonical": "A person stands on the left leg and kicks the right leg forward high and fast, then pulls it back quickly to the starting position.",
+      "intensity": "intense"
+    },
+    "qf_punch_combo": {
+      "difficult": [
+        "Throw a rapid one-two punch combination at an invisible opponent.",
+        "Jab with the left hand then cross hard with the right in a lightning combo.",
+        "Unleash a quick flurry of punches into the air before you."
+      ],
+      "canonical": "A person stands still and punches forward twice very quickly, first with the left arm then with the right arm, snapping each punch back fast.",
+      "intensity": "intense"
+    },
+    "qf_sledge": {
+      "difficult": [
+        "Swing an invisible sledgehammer overhead and crash it down with massive force.",
+        "Lift a heavy tool high above your head and smash it downward onto an anvil.",
+        "Raise both arms gripping an imaginary handle and bring them down with crushing power."
+      ],
+      "canonical": "A person stands and raises both arms high overhead together, then swings them down hard and fast toward the ground in one powerful motion.",
+      "intensity": "intense"
+    },
+    "qf_victory_leap": {
+      "difficult": [
+        "Jump high into the air with both fists punching the sky in celebration.",
+        "Leap upward explosively, arms shooting overhead in pure triumph.",
+        "Spring off both feet and reach for the heavens in an explosion of joy."
+      ],
+      "canonical": "A person crouches slightly then jumps straight up very high while raising both arms overhead, landing back on both feet.",
+      "intensity": "intense"
+    },
+    "qf_stomp_tantrum": {
+      "difficult": [
+        "Stomp the ground repeatedly in frustration, fists clenched white at your sides.",
+        "Stamp your feet in anger like a child having a massive tantrum.",
+        "Pound the floor with alternating feet, each impact a release of bottled rage."
+      ],
+      "canonical": "A person stands in place and stomps the right foot down hard several times in a row, both hands clenched into tight fists.",
+      "intensity": "intense"
+    },
+    "qf_firefighter": {
+      "difficult": [
+        "Swing an invisible axe sideways with full force as if breaking down a burning door.",
+        "Grip a heavy tool with both hands and smash it sideways repeatedly.",
+        "Chop at the air beside you with powerful horizontal swings, debris flying."
+      ],
+      "canonical": "A person stands with both hands together and swings them hard from the right side across the body to the left side several times.",
+      "intensity": "intense"
+    },
+    "qf_drums": {
+      "difficult": [
+        "Beat invisible drums with wild reckless energy, arms flying up and down in a frenzy.",
+        "Pound the air before you like a drummer in the middle of an epic stadium solo.",
+        "Smash down on imaginary drums with both hands in a hurricane of rhythm."
+      ],
+      "canonical": "A person sits and brings both arms up and down rapidly and forcefully, striking downward with alternating hands.",
+      "intensity": "intense"
+    },
+    "qf_angry_storm": {
+      "difficult": [
+        "Storm forward with heavy stomping steps, fists clenched white, radiating pure fury.",
+        "March ahead with every muscle rigid and tense, each step a punctuation of rage.",
+        "Stomp forward with your whole body coiled like a spring about to snap."
+      ],
+      "canonical": "A person walks forward stomping the feet down hard with each step, both hands clenched into tight fists, the body held very stiff and tense.",
+      "intensity": "intense"
+    },
+    "qf_proud_chest": {
+      "difficult": [
+        "March forward with your chest thrust out like a general reviewing victorious troops.",
+        "Stride ahead with exaggerated pride, chin high, shoulders back, each step a declaration.",
+        "Walk like you have just conquered the world, chest expanded to the absolute maximum."
+      ],
+      "canonical": "A person walks forward with the chest pushed far out, the shoulders pulled far back, the chin lifted high, taking long deliberate strides.",
+      "intensity": "intense"
+    },
+    "qf_knight": {
+      "difficult": [
+        "Walk forward with heavy clanking steps as if wearing a full suit of steel plate armor.",
+        "March ahead stiffly with the ponderous weight of metal covering every inch of your body.",
+        "Move with the rigid heavy gait of someone encased in iron from head to toe."
+      ],
+      "canonical": "A person walks forward with very heavy slow steps, the body held completely stiff and upright, the arms swinging in short rigid arcs.",
+      "intensity": "intense"
+    },
+    "qf_drunk": {
+      "difficult": [
+        "Stagger forward like someone who has had far too much to drink.",
+        "Lurch from side to side, barely keeping your balance with each wobbling step.",
+        "Weave forward unsteadily as if the whole world is spinning around your head."
+      ],
+      "canonical": "A person walks forward swaying and wobbling heavily from side to side, lurching unpredictably, arms held wide out for balance.",
+      "intensity": "intense"
+    },
+    "qf_crab": {
+      "difficult": [
+        "Scuttle sideways like a crab on a sandy beach, claws raised and ready.",
+        "Walk crouched low to the side with both arms held out like snapping pincers.",
+        "Move laterally in a deep crouch, hands opening and closing menacingly."
+      ],
+      "canonical": "A person walks sideways to the right with the body crouched very low, both arms held out wide to the sides.",
+      "intensity": "intense"
+    },
+    "qf_rope_pull": {
+      "difficult": [
+        "Pull an invisible heavy rope toward you hand over hand, straining with full effort.",
+        "Haul at empty air as if dragging a massive weight toward your body.",
+        "Tug an unseen line with all your strength, each pull a desperate battle."
+      ],
+      "canonical": "A person reaches both hands forward, closes them into tight grips, and pulls them back to the chest with strong effort, repeating several times.",
+      "intensity": "intense"
+    },
+    "qf_moonwalk": {
+      "difficult": [
+        "Glide backward smoothly while your upper body looks like it is walking forward.",
+        "Slide in reverse one foot at a time creating the illusion of forward motion.",
+        "Float backward with the classic dance move, each step a smooth effortless slide."
+      ],
+      "canonical": "A person stands and slides the right foot straight backward along the ground, then the left foot backward, moving in reverse while keeping the upper body still.",
+      "intensity": "intense"
+    },
+    "qf_chest_pound": {
+      "difficult": [
+        "Beat your chest with both fists like a triumphant warrior celebrating victory.",
+        "Pound your sternum repeatedly with alternating hands in a primal display of power.",
+        "Thump your chest with closed fists, head thrown back, roaring silently at the sky."
+      ],
+      "canonical": "A person stands still and strikes the chest with the right fist then the left fist alternately, the head tilting back with each strike.",
+      "intensity": "intense"
+    },
+    "qf_martial_crouch": {
+      "difficult": [
+        "Drop into a fighting stance, weight low and balanced, fists guarding your face.",
+        "Sink into a deep ready position, bouncing lightly on the balls of your feet, hands up.",
+        "Crouch like a fighter awaiting the opening bell, coiled and ready to strike."
+      ],
+      "canonical": "A person crouches down with both knees deeply bent, both fists held up in front of the face, bouncing lightly from foot to foot.",
+      "intensity": "intense"
+    },
+    "qf_throw_spear": {
+      "difficult": [
+        "Hurl an invisible spear forward with your full body weight behind the throw.",
+        "Pull your arm way back past your ear and launch an imaginary javelin into the distance.",
+        "Wind up and unleash a powerful overhand throw, following through with your whole body."
+      ],
+      "canonical": "A person pulls the right arm far back past the shoulder, then throws it forward hard and fast, the body leaning forward with the motion.",
+      "intensity": "intense"
+    },
+    "qf_stomp_run": {
+      "difficult": [
+        "Run forward with heavy pounding steps, each footfall a hammer blow to the earth.",
+        "Charge ahead stomping the ground so hard that the whole room seems to shake.",
+        "Sprint forward like a rhino, every step a thunderous impact."
+      ],
+      "canonical": "A person runs forward landing each foot very hard and heavily on the ground, stomping with every stride.",
+      "intensity": "intense"
+    },
+    "qf_factory_lever": {
+      "difficult": [
+        "Grip an imaginary overhead lever and heave it downward using your full body weight.",
+        "Reach up high grab something heavy and yank it down with both hands, knees bending.",
+        "Pull down a massive invisible switch, throwing your whole torso into the motion."
+      ],
+      "canonical": "A person reaches both arms up high, closes both hands into tight grips, and pulls them down hard toward the chest while bending the knees.",
+      "intensity": "intense"
+    },
+    "qf_crawl_soldier": {
+      "difficult": [
+        "Crawl forward on your belly under imaginary barbed wire.",
+        "Pull yourself across the ground using only your elbows like a soldier in the mud.",
+        "Drag your body forward low to the earth to avoid being seen."
+      ],
+      "canonical": "A person lies flat on the belly and pulls the body forward using both elbows, keeping the body pressed low against the ground.",
+      "intensity": "intense"
+    },
+    "qf_crawl_baby": {
+      "difficult": [
+        "Crawl forward on hands and knees like a baby exploring the floor.",
+        "Move ahead on all fours with unsteady wobbling movements.",
+        "Creep forward on your hands and knees, head bobbing with each movement."
+      ],
+      "canonical": "A person gets down on both hands and both knees and crawls forward, moving the right hand and left knee together then the left hand and right knee.",
+      "intensity": "calm"
+    },
+    "qf_crawl_exhausted": {
+      "difficult": [
+        "Drag yourself forward on hands and knees, completely spent, barely able to move.",
+        "Crawl ahead with the last reserves of your strength, each movement a monumental effort.",
+        "Pull your body forward inch by inch as if you have been crawling for hours."
+      ],
+      "canonical": "A person crawls forward very slowly on both hands and both knees, pausing to rest between each movement, the head hanging low.",
+      "intensity": "calm"
+    },
+    "qf_crawl_spider": {
+      "difficult": [
+        "Crawl forward on all fours with long reaching leg movements like a hunting spider.",
+        "Move ahead on your hands and feet with your body arched up, limbs reaching far out.",
+        "Scurry forward on all fours, each limb stretching impossibly far before planting."
+      ],
+      "canonical": "A person gets on both hands and both feet with the body arched upward and crawls forward taking long reaching steps with each limb.",
+      "intensity": "intense"
+    },
+    "qf_jump_star": {
+      "difficult": [
+        "Jump up and spread your arms and legs wide like a star in midair.",
+        "Leap upward and explode outward into a giant X shape before landing.",
+        "Spring into the air and throw all four limbs out as far as they can go."
+      ],
+      "canonical": "A person crouches down then jumps straight up high while spreading both arms and both legs out wide to the sides, then lands back on both feet.",
+      "intensity": "intense"
+    },
+    "qf_jump_tuck": {
+      "difficult": [
+        "Jump up and pull both knees tight to your chest in midair.",
+        "Spring upward and curl into a tight ball at the peak of your jump.",
+        "Leap and hug your knees to your body before landing."
+      ],
+      "canonical": "A person crouches down then jumps straight up while pulling both knees up toward the chest and wrapping both arms around the legs at the top of the jump.",
+      "intensity": "intense"
+    },
+    "qf_jump_small_bounce": {
+      "difficult": [
+        "Bounce gently on both feet like you are too excited to stand still.",
+        "Hop up and down lightly in place with a spring in your step.",
+        "Bob up and down on your toes with tiny joyful jumps."
+      ],
+      "canonical": "A person stands in place and does small gentle bounces on both feet, lifting just slightly off the ground each time with the arms relaxed at the sides.",
+      "intensity": "calm"
+    },
+    "qf_jump_rope": {
+      "difficult": [
+        "Jump lightly over an invisible spinning jump rope.",
+        "Hop rhythmically on both feet, wrists flicking as if turning a rope.",
+        "Bounce steadily in place, clearing an imaginary rope with each little jump."
+      ],
+      "canonical": "A person stands in place and jumps up and down lightly on both feet in a steady rhythm, the wrists making small circular motions at the sides.",
+      "intensity": "calm"
+    },
+    "qf_skip_forward": {
+      "difficult": [
+        "Skip forward with a happy bounce, alternating your lead foot with each hop.",
+        "Move ahead with a playful skipping step, a hop and a step in cheerful rhythm.",
+        "Bounce forward lightly stepping and hopping in a carefree skipping motion."
+      ],
+      "canonical": "A person skips forward by stepping with the right foot then hopping on the right foot, then stepping with the left foot and hopping on the left foot, swinging the arms naturally.",
+      "intensity": "calm"
+    },
+    "qf_skip_high": {
+      "difficult": [
+        "Skip forward with exaggerated high knee lifts and big arm swings.",
+        "Bound ahead in an over-the-top skipping motion, each hop a dramatic leap.",
+        "Skip with enormous energy, knees pumping high and arms flying everywhere."
+      ],
+      "canonical": "A person skips forward lifting each knee very high with every hop, both arms swinging up and down in big energetic motions.",
+      "intensity": "intense"
+    },
+    "qf_spin_slow": {
+      "difficult": [
+        "Spin around slowly in a full circle with both arms floating outward.",
+        "Turn in a complete graceful circle, arms drifting like ribbons in the wind.",
+        "Rotate your whole body around once at a dreamy unhurried pace."
+      ],
+      "canonical": "A person stands in place and turns the whole body around in a full slow circle, both arms held out to the sides.",
+      "intensity": "calm"
+    },
+    "qf_spin_fast": {
+      "difficult": [
+        "Spin around quickly and stop sharply facing the same direction you started.",
+        "Whip around in a fast full turn, arms pulling in close to speed up the spin.",
+        "Execute a rapid pirouette-like spin, snapping to a crisp stop."
+      ],
+      "canonical": "A person stands in place and spins the whole body around quickly in one rapid motion, pulling both arms in close to the body, then stopping abruptly.",
+      "intensity": "intense"
+    },
+    "qf_squat_deep": {
+      "difficult": [
+        "Drop into a deep squat with both hands touching the ground between your feet.",
+        "Sink all the way down until your hips nearly touch your heels.",
+        "Lower yourself into the deepest crouch possible, knees fully bent."
+      ],
+      "canonical": "A person bends both knees deeply and lowers the body all the way down until the hips are close to the heels, both hands touching the ground.",
+      "intensity": "intense"
+    },
+    "qf_squat_hold": {
+      "difficult": [
+        "Lower into a squat and hold it, arms reaching forward for balance.",
+        "Sink down halfway and freeze, holding the position with your thighs burning.",
+        "Drop into a squat stance and stay there, perfectly still and balanced."
+      ],
+      "canonical": "A person bends both knees and lowers the body down into a squat position, then holds still with both arms reaching straight forward.",
+      "intensity": "calm"
+    },
+    "qf_kneel_both": {
+      "difficult": [
+        "Lower yourself down to kneel on both knees, hands resting on your thighs.",
+        "Drop to your knees and settle back with quiet reverence.",
+        "Sink down until both knees touch the ground and hold the position."
+      ],
+      "canonical": "A person stands and then lowers down slowly to kneel on both knees, placing both hands on the thighs and keeping the back straight.",
+      "intensity": "calm"
+    },
+    "qf_kneel_one": {
+      "difficult": [
+        "Take a knee like a knight pledging fealty to a king.",
+        "Drop onto one knee with your head bowed and one hand on the ground.",
+        "Lower yourself to kneel on the right knee while the left foot stays planted."
+      ],
+      "canonical": "A person stands and then lowers down to kneel on the right knee, with the left foot planted flat on the ground and the left knee bent at a right angle.",
+      "intensity": "calm"
+    },
+    "qf_bend_touch_toes": {
+      "difficult": [
+        "Bend forward at the waist and reach down to touch your toes.",
+        "Fold your upper body down over your legs, fingertips reaching for the floor.",
+        "Hinge forward and let your arms dangle toward your feet."
+      ],
+      "canonical": "A person stands with both legs straight and bends the upper body forward at the waist, reaching both hands down toward the feet.",
+      "intensity": "calm"
+    },
+    "qf_bend_side": {
+      "difficult": [
+        "Bend sideways at the waist and reach one arm over your head toward the opposite side.",
+        "Stretch your body into a smooth sideways curve like a crescent moon.",
+        "Lean far to the left while reaching your right arm overhead in a deep side bend."
+      ],
+      "canonical": "A person stands and bends the upper body far to the left side while reaching the right arm up and over the head toward the left.",
+      "intensity": "calm"
+    },
+    "qf_bend_back": {
+      "difficult": [
+        "Arch your back and look up at the sky, both arms reaching behind you.",
+        "Bend backward into a gentle bridge pose, chest opening toward the ceiling.",
+        "Lean back and stretch your whole front body open, arms drifting backward."
+      ],
+      "canonical": "A person stands and arches the back, leaning the upper body backward while looking up and reaching both arms back behind the body.",
+      "intensity": "calm"
+    },
+    "qf_twist_waist": {
+      "difficult": [
+        "Twist your upper body sharply to the left then to the right like you are dodging something.",
+        "Rotate your torso back and forth with your feet planted, arms swinging with the momentum.",
+        "Wring your upper body side to side as if shaking something off."
+      ],
+      "canonical": "A person stands with both feet planted and twists the upper body quickly to the left then to the right, both arms swinging loosely with the motion.",
+      "intensity": "intense"
+    },
+    "qf_twist_slow": {
+      "difficult": [
+        "Slowly rotate your entire upper body to look behind you over one shoulder.",
+        "Twist around gently as if someone called your name from behind.",
+        "Turn your torso in a smooth controlled motion to see what is behind you."
+      ],
+      "canonical": "A person stands still and slowly twists the upper body around to look over the right shoulder, then turns back to face forward.",
+      "intensity": "calm"
+    },
+    "qf_lean_wall": {
+      "difficult": [
+        "Lean forward and place both hands against an invisible wall, resting your weight on it.",
+        "Brace yourself against empty air as if leaning on a windowsill to look outside.",
+        "Rest both palms on a surface that is not there and peer forward over it."
+      ],
+      "canonical": "A person leans the body forward and places both hands flat in front at chest height, pressing gently forward against an invisible surface.",
+      "intensity": "calm"
+    },
+    "qf_lean_back": {
+      "difficult": [
+        "Lean backward as if reclining in an invisible chair that you trust will hold you.",
+        "Tilt your body back and relax into empty air, arms dangling.",
+        "Recline slightly and let your weight shift behind you."
+      ],
+      "canonical": "A person stands and leans the upper body backward, shifting the weight onto the heels, both arms hanging loosely at the sides.",
+      "intensity": "calm"
+    },
+    "qf_lean_side": {
+      "difficult": [
+        "Lean far to one side as if a strong wind is pushing against you.",
+        "Tilt your whole body sideways, one foot lifting slightly off the ground.",
+        "List dramatically to the left like a tree bending in a gale."
+      ],
+      "canonical": "A person stands and leans the whole body far to the left side, the left foot sliding out wider, the right arm lifting slightly for counterbalance.",
+      "intensity": "calm"
+    },
+    "qf_push_heavy": {
+      "difficult": [
+        "Push both hands forward against an enormous invisible weight that resists you.",
+        "Strain against empty air as if trying to move a massive boulder.",
+        "Plant your feet and shove forward with all your strength, muscles trembling."
+      ],
+      "canonical": "A person stands with both feet wide apart, places both hands forward at chest height, and pushes forward hard, leaning the whole body into the push.",
+      "intensity": "intense"
+    },
+    "qf_push_overhead": {
+      "difficult": [
+        "Press both hands straight up overhead as if lifting a heavy trapdoor.",
+        "Push upward against an invisible ceiling with all your might.",
+        "Strain to raise something massive above your head, arms trembling with effort."
+      ],
+      "canonical": "A person stands and pushes both arms straight up overhead, reaching as high as possible, the body stretching upward.",
+      "intensity": "intense"
+    },
+    "qf_carry_heavy_box": {
+      "difficult": [
+        "Walk forward carefully cradling an enormous invisible box in both arms.",
+        "Move ahead with your arms wrapped around something heavy, taking slow deliberate steps.",
+        "Shuffle forward holding a bulky object that blocks your view."
+      ],
+      "canonical": "A person holds both arms curved in front of the body holding a large imaginary box, and walks forward slowly taking small careful steps.",
+      "intensity": "calm"
+    },
+    "qf_carry_bucket": {
+      "difficult": [
+        "Walk forward with one arm hanging low as if carrying a heavy bucket of water.",
+        "Move ahead lopsidedly, one shoulder pulled down by an invisible weight.",
+        "Stride forward unevenly with one hand gripping a heavy pail that swings slightly."
+      ],
+      "canonical": "A person walks forward with the right arm held straight down and slightly away from the body, the right shoulder pulled lower than the left.",
+      "intensity": "calm"
+    },
+    "qf_wave_big": {
+      "difficult": [
+        "Wave your whole arm overhead in a big enthusiastic greeting to someone far away.",
+        "Swing your arm in a wide arc above your head to get attention from across a crowd.",
+        "Signal wildly with one arm raised high, making yourself impossible to miss."
+      ],
+      "canonical": "A person stands and raises the right arm high overhead and waves it from side to side in big wide motions.",
+      "intensity": "intense"
+    },
+    "qf_wave_small": {
+      "difficult": [
+        "Give a tiny subtle wave with just your fingers at waist level.",
+        "Wiggle your fingers in a discreet greeting, barely moving your hand.",
+        "Acknowledge someone quietly with a minimal hand gesture, palm facing forward."
+      ],
+      "canonical": "A person stands and raises the right hand to waist height with the palm facing forward and wiggles the fingers gently.",
+      "intensity": "calm"
+    },
+    "qf_point_direct": {
+      "difficult": [
+        "Point sharply at something directly ahead of you with a straight arm.",
+        "Extend your index finger forward in an accusatory gesture.",
+        "Jab your finger toward an invisible target as if identifying a culprit."
+      ],
+      "canonical": "A person stands and extends the right arm straight forward with the index finger pointing ahead.",
+      "intensity": "intense"
+    },
+    "qf_point_up": {
+      "difficult": [
+        "Point up at the sky as if spotting something amazing overhead.",
+        "Raise your arm and direct your finger toward the heavens.",
+        "Look up and point dramatically at something flying high above."
+      ],
+      "canonical": "A person stands and raises the right arm straight up, pointing the index finger toward the sky, the head tilting back to look upward.",
+      "intensity": "calm"
+    },
+    "qf_beckon": {
+      "difficult": [
+        "Beckon someone toward you with a curling finger motion.",
+        "Gesture come here with your hand, curling your fingers inward repeatedly.",
+        "Summon an invisible person closer with an insistent hand wave toward yourself."
+      ],
+      "canonical": "A person stands and extends the right arm forward, then curls the fingers back toward the palm several times in a beckoning motion.",
+      "intensity": "calm"
+    },
+    "qf_clap_fast": {
+      "difficult": [
+        "Clap your hands together rapidly as if applauding an incredible performance.",
+        "Smack your palms together in quick excited applause.",
+        "Give a fast enthusiastic round of applause to an invisible stage."
+      ],
+      "canonical": "A person stands and brings both hands together in front of the chest repeatedly, clapping quickly several times.",
+      "intensity": "intense"
+    },
+    "qf_clap_slow": {
+      "difficult": [
+        "Clap slowly and deliberately three times like a judge at a formal ceremony.",
+        "Bring your hands together in measured dignified applause.",
+        "Give three slow deliberate claps with pauses between each one."
+      ],
+      "canonical": "A person stands and claps both hands together slowly three times with a pause between each clap.",
+      "intensity": "calm"
+    },
+    "qf_rub_hands": {
+      "difficult": [
+        "Rub both hands together briskly as if warming them on a cold day.",
+        "Vigorously chafe your palms against each other to generate heat.",
+        "Scrub your hands together in quick friction like you are freezing."
+      ],
+      "canonical": "A person stands and rubs both palms together quickly back and forth in front of the chest.",
+      "intensity": "intense"
+    },
+    "qf_rub_eye": {
+      "difficult": [
+        "Rub one eye tiredly with the back of your hand like you just woke up.",
+        "Gently press your knuckle against your eyelid and rub in a slow circle.",
+        "Wipe sleep from your eye with a tired languid motion."
+      ],
+      "canonical": "A person stands and brings the right hand up to the right eye and gently rubs the eye with the back of the hand in a small circle.",
+      "intensity": "calm"
+    },
+    "qf_scratch_head": {
+      "difficult": [
+        "Scratch the top of your head in confusion, trying to figure something out.",
+        "Rake your fingers through your hair as you puzzle over a problem.",
+        "Pat and scratch your scalp while looking around with a bewildered expression."
+      ],
+      "canonical": "A person stands and reaches the right hand up to scratch the top of the head with the fingertips several times.",
+      "intensity": "calm"
+    },
+    "qf_walk_duck": {
+      "difficult": [
+        "Walk forward in a deep crouch like you are passing under a very low ceiling.",
+        "Squat-walk ahead keeping your head far below its normal height.",
+        "Shuffle forward bent over as if the ceiling is only chest high."
+      ],
+      "canonical": "A person bends both knees deeply and walks forward with the body crouched very low, the head kept far down.",
+      "intensity": "intense"
+    },
+    "qf_walk_stilts": {
+      "difficult": [
+        "Walk forward with huge exaggerated high steps as if you are on tall stilts.",
+        "March ahead lifting each knee all the way up before placing the foot down far below.",
+        "Step forward with enormous high-knee strides like a stilt walker in a parade."
+      ],
+      "canonical": "A person walks forward lifting each knee up to waist height with every step before placing the foot down, taking huge exaggerated strides.",
+      "intensity": "intense"
+    },
+    "qf_walk_sideways": {
+      "difficult": [
+        "Walk sideways like a crab along the sand, never turning to face forward.",
+        "Step to the side repeatedly, crossing one foot over the other.",
+        "Move laterally in a smooth side-stepping motion."
+      ],
+      "canonical": "A person walks sideways to the right by stepping the right foot out and bringing the left foot to meet it, repeating this sideways shuffle.",
+      "intensity": "calm"
+    },
+    "qf_walk_heel_toe": {
+      "difficult": [
+        "Walk forward placing your heel down first and rolling through to the toe with each step.",
+        "March ahead with the exaggerated heel-strike of a fashion model on a runway.",
+        "Step forward heel first then toe, in a smooth rolling gait."
+      ],
+      "canonical": "A person walks forward landing each foot on the heel first and then rolling the foot forward onto the toe before lifting it again.",
+      "intensity": "calm"
+    },
+    "qf_run_high_knees": {
+      "difficult": [
+        "Run in place pumping your knees up to your chest as fast as you can.",
+        "Jog on the spot with exaggerated knee lifts, each thigh rising horizontal.",
+        "Pump your legs up and down rapidly as if doing a football drill."
+      ],
+      "canonical": "A person stands in place and runs lifting each knee up high quickly, the legs pumping up and down rapidly.",
+      "intensity": "intense"
+    },
+    "qf_run_butt_kicks": {
+      "difficult": [
+        "Jog forward flicking your heels up to touch your backside with each stride.",
+        "Run ahead kicking your own behind with every step.",
+        "Move forward with exaggerated heel flicks, each foot nearly hitting your glutes."
+      ],
+      "canonical": "A person runs forward slowly while kicking each heel up toward the back of the body with every stride.",
+      "intensity": "intense"
+    },
+    "qf_run_backward": {
+      "difficult": [
+        "Run backward while looking over your shoulder to see where you are going.",
+        "Jog in reverse, glancing behind you repeatedly to avoid obstacles.",
+        "Move backward at speed, twisting to check your path every few steps."
+      ],
+      "canonical": "A person runs backward while turning the upper body to look behind over the right shoulder repeatedly.",
+      "intensity": "intense"
+    },
+    "qf_jog_light": {
+      "difficult": [
+        "Jog forward at an easy comfortable pace like you could keep going forever.",
+        "Run lightly with short gentle strides, breathing easily and relaxed.",
+        "Trot ahead at a leisurely pace, barely breaking a sweat."
+      ],
+      "canonical": "A person jogs forward at a relaxed easy pace with short light steps, the arms swinging gently.",
+      "intensity": "calm"
+    },
+    "qf_kick_ball": {
+      "difficult": [
+        "Run up and kick an invisible soccer ball with the inside of your foot.",
+        "Take a short run-up and strike an imaginary ball, following through with your leg.",
+        "Approach and swing your foot through a phantom ball, sending it flying."
+      ],
+      "canonical": "A person walks forward two steps then kicks the right foot forward striking an imaginary ball, the leg following through after the kick.",
+      "intensity": "intense"
+    },
+    "qf_kick_back": {
+      "difficult": [
+        "Kick backward with your heel like a horse dismissing an annoyance.",
+        "Swing your leg back sharply as if kicking a door shut behind you.",
+        "Jerk one foot backward in a sudden sharp motion."
+      ],
+      "canonical": "A person stands on the left leg and kicks the right leg straight backward sharply.",
+      "intensity": "intense"
+    },
+    "qf_knee_strike": {
+      "difficult": [
+        "Drive your knee upward as if striking an opponent in close combat.",
+        "Snap one knee up toward your chest in a powerful Muay Thai knee strike.",
+        "Thrust your knee forward and upward with explosive force."
+      ],
+      "canonical": "A person stands on the left leg and drives the right knee sharply upward and forward toward the chest.",
+      "intensity": "intense"
+    },
+    "qf_punch_jab": {
+      "difficult": [
+        "Snap out a quick light jab with your lead hand to test the distance.",
+        "Pop your left fist forward and back in a flash, keeping your right hand guarding.",
+        "Flick out a fast exploratory punch and retract it instantly."
+      ],
+      "canonical": "A person stands and punches the left arm forward quickly and pulls it back fast, keeping the right fist up near the face.",
+      "intensity": "intense"
+    },
+    "qf_punch_hook": {
+      "difficult": [
+        "Throw a wide looping hook punch from the side, putting your whole body into it.",
+        "Swing your arm in a big horizontal arc, pivoting your hips and feet.",
+        "Unleash a devastating roundhouse punch with full body rotation."
+      ],
+      "canonical": "A person stands and swings the right arm in a wide horizontal arc from the right side across the front of the body, rotating the hips and shoulders with the punch.",
+      "intensity": "intense"
+    },
+    "qf_punch_uppercut": {
+      "difficult": [
+        "Drive an uppercut upward from below as if hitting someone under the chin.",
+        "Explode your fist straight up from your waist toward an imaginary jaw.",
+        "Dip your knees slightly and launch an upward punch with devastating upward force."
+      ],
+      "canonical": "A person stands with knees slightly bent and punches the right fist straight upward from waist level, the body rising slightly with the punch.",
+      "intensity": "intense"
+    },
+    "qf_elbow_strike": {
+      "difficult": [
+        "Smash your elbow backward as if breaking free from someone grabbing you from behind.",
+        "Drive your elbow sharply rearward into an invisible attacker."
+      ],
+      "canonical": "A person stands and thrusts the right elbow sharply backward behind the body.",
+      "intensity": "intense"
+    },
+    "qf_kick_side": {
+      "difficult": [
+        "Kick out to the side with the blade of your foot like a martial artist breaking a board.",
+        "Snap your leg sideways at hip height in a sharp lateral kick."
+      ],
+      "canonical": "A person stands on the left leg and kicks the right leg straight out to the side at hip height.",
+      "intensity": "intense"
+    },
+    "qf_stretch_overhead": {
+      "difficult": [
+        "Reach both arms toward the sky and stretch your whole body as tall as possible.",
+        "Extend upward as if trying to touch the ceiling with your fingertips.",
+        "Lengthen your entire body in a full vertical stretch, rising onto your toes."
+      ],
+      "canonical": "A person stands and raises both arms straight up overhead, stretching the whole body upward and rising up onto the toes.",
+      "intensity": "calm"
+    },
+    "qf_stretch_forward": {
+      "difficult": [
+        "Reach both arms far forward and stretch your upper body like a cat waking up.",
+        "Extend your arms ahead and round your back in a big morning stretch.",
+        "Push your hands forward and arch your spine in a luxurious full-body stretch."
+      ],
+      "canonical": "A person stands and reaches both arms straight forward, rounding the upper back and stretching the arms as far ahead as they can go.",
+      "intensity": "calm"
+    },
+    "qf_stretch_side": {
+      "difficult": [
+        "Reach one arm far across your body and stretch your shoulder like a swimmer warming up.",
+        "Pull one arm across your chest with the other hand, holding the stretch."
+      ],
+      "canonical": "A person stands and pulls the right arm across the front of the chest with the left hand, holding it there for a stretch.",
+      "intensity": "calm"
+    },
+    "qf_shrug": {
+      "difficult": [
+        "Shrug both shoulders up to your ears as if you have no idea what is going on.",
+        "Lift your shoulders high and drop them in an exaggerated I-dont-know gesture.",
+        "Hunch both shoulders up toward your ears and hold them there."
+      ],
+      "canonical": "A person stands and lifts both shoulders up high toward the ears, holds them there for a moment, then drops them back down.",
+      "intensity": "calm"
+    },
+    "qf_nod_slow": {
+      "difficult": [
+        "Nod your head slowly and deliberately as if agreeing with a profound statement.",
+        "Tilt your chin down and up in a measured thoughtful nod.",
+        "Acknowledge something with a slow single nod of your head."
+      ],
+      "canonical": "A person stands still and tilts the head forward and down then back up in one slow nod.",
+      "intensity": "calm"
+    },
+    "qf_shake_head": {
+      "difficult": [
+        "Shake your head slowly from side to side in quiet disappointment.",
+        "Turn your face left and right repeatedly as if refusing something.",
+        "Wag your head side to side in a gentle no gesture."
+      ],
+      "canonical": "A person stands still and turns the head to the left then to the right then back to center several times.",
+      "intensity": "calm"
+    },
+    "qf_tilt_head": {
+      "difficult": [
+        "Tilt your head to one side quizzically like a confused puppy.",
+        "Cock your head at an angle as if you are trying to understand something puzzling.",
+        "Lean your ear toward your shoulder while looking at something with curiosity."
+      ],
+      "canonical": "A person stands still and tilts the head to the right side, bringing the right ear closer to the right shoulder.",
+      "intensity": "calm"
+    },
+    "qf_sit_ground": {
+      "difficult": [
+        "Lower yourself to sit cross-legged on the ground.",
+        "Drop down and settle onto the floor with your legs folded in front of you.",
+        "Sink down from standing to seated on the floor in one smooth motion."
+      ],
+      "canonical": "A person stands and then lowers the body down to sit on the ground with both legs crossed in front.",
+      "intensity": "calm"
+    },
+    "qf_sit_stand_up": {
+      "difficult": [
+        "Get up from the floor to a standing position in one strong motion.",
+        "Push yourself up from sitting on the ground until you are fully upright.",
+        "Rise from the floor with determination, planting both hands on your knees for support."
+      ],
+      "canonical": "A person sits on the ground then places both hands on the knees and pushes up to stand straight.",
+      "intensity": "intense"
+    },
+    "qf_lie_down": {
+      "difficult": [
+        "Lie down flat on your back on the ground and stretch out completely.",
+        "Lower yourself all the way down until you are lying face up on the floor.",
+        "Recline onto your back and spread your arms and legs out wide."
+      ],
+      "canonical": "A person stands then lowers the body down to lie flat on the back on the ground, both arms and legs stretched out.",
+      "intensity": "calm"
+    },
+    "qf_get_up_back": {
+      "difficult": [
+        "Get up from lying on your back to your feet.",
+        "Roll to your side, push up with both hands, and stand up from the floor.",
+        "Rise from a supine position using your arms to push yourself upright."
+      ],
+      "canonical": "A person lies on the back then rolls to the right side, pushes up with both hands against the ground, and stands up.",
+      "intensity": "intense"
+    },
+    "qf_step_up": {
+      "difficult": [
+        "Step up onto an invisible platform as if climbing onto a stage.",
+        "Lift one foot high and place it on an elevated surface, then bring the other foot up.",
+        "Mount an unseen step with a high knee lift."
+      ],
+      "canonical": "A person stands and lifts the right foot up high, places it forward stepping up onto a raised invisible platform, then brings the left foot up to meet it.",
+      "intensity": "calm"
+    },
+    "qf_step_down": {
+      "difficult": [
+        "Step down carefully from an invisible platform, lowering one foot to the ground below.",
+        "Descend from an unseen step, reaching one leg down to find the lower surface.",
+        "Lower yourself off a curb that is not there."
+      ],
+      "canonical": "A person stands and lowers the right foot forward and down stepping off an invisible platform, then brings the left foot down to the same level.",
+      "intensity": "calm"
+    },
+    "qf_duck_under": {
+      "difficult": [
+        "Duck your head under an imaginary low doorway and step through.",
+        "Bend your knees and crouch-walk under a barrier just above your head.",
+        "Dip down and pass beneath something, then straighten back up on the other side."
+      ],
+      "canonical": "A person bends the knees and lowers the head, takes a step forward while staying crouched low, then straightens back up.",
+      "intensity": "calm"
+    },
+    "qf_open_door_walk": {
+      "difficult": [
+        "Reach forward, turn an invisible doorknob, push the door open, and walk through.",
+        "Grip a handle, twist your wrist, shove forward, and step across the threshold.",
+        "Open an unseen door and pass through the doorway."
+      ],
+      "canonical": "A person reaches the right hand forward, rotates the wrist, pushes the arm forward, then takes two steps forward.",
+      "intensity": "calm"
+    },
+    "qf_close_door": {
+      "difficult": [
+        "Reach back, grab an invisible door handle, and pull it shut behind you.",
+        "Extend your hand behind, grip the edge of an unseen door, and swing it closed."
+      ],
+      "canonical": "A person reaches the right hand backward, closes the hand, and pulls the arm forward to the body.",
+      "intensity": "calm"
+    },
+    "qf_walk_unsteady_toddler": {
+      "difficult": [
+        "Walk like a toddler taking their very first wobbly steps.",
+        "Move forward with tiny unsteady steps, arms held wide for balance, about to topple any moment.",
+        "Stagger ahead with the uncoordinated gait of someone just learning to walk."
+      ],
+      "canonical": "A person walks forward with very small unsteady wobbly steps, both arms held straight out to the sides, the body swaying unpredictably.",
+      "intensity": "calm"
+    },
+    "qf_walk_crouch_tiger": {
+      "difficult": [
+        "Stalk forward in a deep crouch like a tiger closing in on its prey.",
+        "Creep ahead bent low with silent foot placement, eyes locked on an imaginary target.",
+        "Move forward with predatory patience, each foot placed with absolute silence."
+      ],
+      "canonical": "A person walks forward with the body crouched very low, taking long slow completely silent steps, placing each foot down with extreme care.",
+      "intensity": "calm"
+    },
+    "qf_walk_model_runway": {
+      "difficult": [
+        "Walk down an imaginary runway, one foot crossing directly in front of the other.",
+        "Stride forward like a fashion model, hips swaying dramatically, chin lifted high.",
+        "Move with the poised confident strut of someone commanding attention on a catwalk."
+      ],
+      "canonical": "A person walks forward placing one foot directly in front of the other in a straight line, the hips swaying side to side, the chin held high.",
+      "intensity": "calm"
+    },
+    "qf_walk_bow_legged": {
+      "difficult": [
+        "Walk like a cowboy fresh off a long horse ride.",
+        "Move forward with your legs bowed far apart, thumbs hooked into imaginary belt loops.",
+        "Stride ahead with a wide bow-legged stance, feet planted wide."
+      ],
+      "canonical": "A person walks forward with both legs held wide apart and bowed outward, taking rolling swaying steps.",
+      "intensity": "calm"
+    },
+    "qf_walk_hunched_secret": {
+      "difficult": [
+        "Walk forward hunched over and glancing around as if carrying an important secret.",
+        "Move ahead with your body curled protectively inward, head swiveling to check for eavesdroppers.",
+        "Shuffle forward conspiratorially, shoulders high and body closed off."
+      ],
+      "canonical": "A person walks forward with the back hunched and the shoulders pulled up high, the head turning quickly left and right.",
+      "intensity": "intense"
+    },
+    "qf_walk_slow_march": {
+      "difficult": [
+        "March forward in a slow funeral procession, each step heavy with solemnity.",
+        "Walk ahead with the measured deliberate pace of someone in a formal ceremony.",
+        "Step forward slowly and heavily as if carrying an invisible coffin on your shoulders."
+      ],
+      "canonical": "A person walks forward very slowly with heavy deliberate steps, the body held straight and stiff, the arms swinging in short controlled arcs.",
+      "intensity": "calm"
+    },
+    "qf_walk_jog_transition": {
+      "difficult": [
+        "Start walking then smoothly speed up into a light jog.",
+        "Begin at a walk and gradually accelerate into a run.",
+        "Pick up speed from a stroll to a jog in one continuous motion."
+      ],
+      "canonical": "A person walks forward at a steady pace and then speeds up into a light jog, the steps becoming quicker and the arms pumping faster.",
+      "intensity": "intense"
+    },
+    "qf_run_turn_sharp": {
+      "difficult": [
+        "Run forward then suddenly pivot and dash to the left.",
+        "Sprint ahead and without warning cut sharply to the side.",
+        "Race forward then change direction in an instant."
+      ],
+      "canonical": "A person runs forward a few steps then quickly turns the whole body to the left and continues running in the new direction.",
+      "intensity": "intense"
+    },
+    "qf_walk_kick_walk": {
+      "difficult": [
+        "Walk forward, suddenly kick out with one leg, and keep walking without missing a beat.",
+        "Stride ahead, throw in a kick, and continue on your way as if nothing happened.",
+        "Walk casually, interrupt your gait with a sharp kick, and resume walking."
+      ],
+      "canonical": "A person walks forward, kicks the right leg forward sharply, then continues walking forward.",
+      "intensity": "intense"
+    },
+    "qf_stand_punch_stand": {
+      "difficult": [
+        "Stand still, suddenly throw a punch, and then relax back to standing.",
+        "Remain motionless, explode into one sharp punch, and resume your calm stance."
+      ],
+      "canonical": "A person stands still, punches the right arm forward quickly, and returns to standing still with both arms at the sides.",
+      "intensity": "intense"
+    },
+    "qf_reach_high_shelf": {
+      "difficult": [
+        "Reach up on tiptoes to grab something from a very high shelf.",
+        "Stretch your arm upward as far as it can go, fingers grasping for an object just out of reach.",
+        "Stand on your toes and extend your hand toward the ceiling."
+      ],
+      "canonical": "A person stands and rises up onto the toes, reaching the right arm straight up as high as possible.",
+      "intensity": "calm"
+    },
+    "qf_pick_up_coin": {
+      "difficult": [
+        "Bend down and pick up a tiny coin from the ground with your fingertips.",
+        "Stoop over and pluck something small from the floor with precision.",
+        "Lean down and carefully retrieve a minuscule object from between your feet."
+      ],
+      "canonical": "A person bends forward at the waist, reaches the right hand down close to the ground, pinches the fingers together, and stands back up.",
+      "intensity": "calm"
+    },
+    "qf_wave_two_hands": {
+      "difficult": [
+        "Wave both hands over your head frantically as if signaling for help.",
+        "Flail both arms in the air trying to get someone's urgent attention.",
+        "Signal desperately with both hands raised high above you."
+      ],
+      "canonical": "A person stands and raises both arms overhead and waves them from side to side quickly.",
+      "intensity": "intense"
+    },
+    "qf_cover_face": {
+      "difficult": [
+        "Cover your face with both hands in embarrassment.",
+        "Hide behind your palms as if you cannot bear to watch what is happening.",
+        "Shield your eyes with both hands and peek through your fingers."
+      ],
+      "canonical": "A person stands and brings both hands up to cover the face, the palms pressed gently against the cheeks and eyes.",
+      "intensity": "calm"
+    },
+    "qf_hands_on_hips": {
+      "difficult": [
+        "Plant both hands firmly on your hips and stand with an authoritative stance.",
+        "Strike a confident power pose with your hands on your waist.",
+        "Stand your ground with both hands pressed into your sides."
+      ],
+      "canonical": "A person stands and places both hands on the hips, the elbows pointing out to the sides.",
+      "intensity": "intense"
+    },
+    "qf_cross_arms": {
+      "difficult": [
+        "Cross both arms tightly over your chest in a defensive posture.",
+        "Fold your arms and plant your feet, creating an unapproachable barrier.",
+        "Wrap your arms across your body and stand firm."
+      ],
+      "canonical": "A person stands and crosses both arms over the chest, the right arm over the left arm.",
+      "intensity": "calm"
+    },
+    "qf_walk_wounded": {
+      "difficult": [
+        "Walk forward clutching your side as if you have been wounded.",
+        "Stagger ahead with one hand pressed against your ribs, each step a painful effort.",
+        "Move forward hunched over, protecting an injury with your arm."
+      ],
+      "canonical": "A person walks forward slowly with the right hand pressed against the right side of the torso, the body slightly hunched to that side.",
+      "intensity": "calm"
+    },
+    "qf_walk_exhausted_drag": {
+      "difficult": [
+        "Walk forward completely drained, feet dragging, arms hanging limp.",
+        "Shuffle ahead with zero energy left, each step a monumental effort.",
+        "Move forward like a zombie not from horror but from sheer exhaustion."
+      ],
+      "canonical": "A person walks forward very slowly with both feet dragging along the ground, both arms hanging completely limp at the sides, the head drooping forward.",
+      "intensity": "calm"
+    },
+    "qf_walk_urgent": {
+      "difficult": [
+        "Walk forward with a sense of urgent purpose, as if you are already late.",
+        "Stride ahead quickly and deliberately like someone on an important mission.",
+        "Move forward fast with the focused determination of someone who must be somewhere now."
+      ],
+      "canonical": "A person walks forward quickly with long fast strides, the arms swinging briskly, the body leaning slightly forward.",
+      "intensity": "intense"
+    },
+    "qf_walk_hesitant": {
+      "difficult": [
+        "Walk forward hesitantly, starting to step then pulling back as if unsure.",
+        "Move ahead with uncertain faltering steps, pausing every few strides to reconsider.",
+        "Approach something slowly with visible reluctance in every step."
+      ],
+      "canonical": "A person walks forward very slowly, stopping briefly every few steps, the body leaning slightly backward with hesitation.",
+      "intensity": "calm"
+    },
+    "ql_walk_toe_first": {
+      "difficult": [
+        "Walk forward landing toe-first with each step, heels never quite touching.",
+        "Move ahead on the balls of your feet like you are sneaking up on someone.",
+        "Step forward with a toe-strike gait, silently padding along."
+      ],
+      "canonical": "A person walks forward landing on the ball of each foot first and keeping the heels slightly lifted off the ground.",
+      "intensity": "calm"
+    },
+    "ql_walk_flat_foot": {
+      "difficult": [
+        "Walk forward with your feet slapping flat against the ground with no heel-to-toe roll.",
+        "March ahead like a penguin, each foot landing completely flat and making a soft thud.",
+        "Move forward planting your whole foot down at once instead of rolling through."
+      ],
+      "canonical": "A person walks forward landing each foot completely flat on the ground all at once, with no heel-to-toe rolling motion.",
+      "intensity": "calm"
+    },
+    "ql_walk_pigeon_toed": {
+      "difficult": [
+        "Walk forward with your toes angled sharply inward toward each other.",
+        "Move ahead pigeon-toed, feet rotated in toward the midline with each step.",
+        "Step forward awkwardly with your feet turned inward."
+      ],
+      "canonical": "A person walks forward with both feet turned inward so the toes point toward each other with each step.",
+      "intensity": "calm"
+    },
+    "ql_walk_splayed": {
+      "difficult": [
+        "Walk forward with your toes flared far outward at ten and two.",
+        "Move ahead duck-footed, each foot pointing away from your body at a sharp angle.",
+        "Stride forward with your feet splayed open in a wide V shape."
+      ],
+      "canonical": "A person walks forward with both feet turned far outward so the toes point away from the body.",
+      "intensity": "calm"
+    },
+    "ql_walk_one_leg_stiff": {
+      "difficult": [
+        "Walk forward keeping one leg completely straight and swinging it outward with each step.",
+        "Move ahead with one stiff leg that does not bend, describing an arc as it comes forward.",
+        "Stride forward dragging a rigid unbending leg in a semicircle with every step."
+      ],
+      "canonical": "A person walks forward keeping the right leg completely straight and swinging it out to the side in an arc with each step.",
+      "intensity": "calm"
+    },
+    "ql_walk_wide_stance": {
+      "difficult": [
+        "Walk forward with your feet spread far apart like you just got off a horse.",
+        "Move ahead with an exaggerated wide stance, each step planting far from your centerline.",
+        "Stride forward bow-legged, feet never coming close together."
+      ],
+      "canonical": "A person walks forward with both feet held very far apart, taking wide rolling steps, the feet staying far from each other.",
+      "intensity": "calm"
+    },
+    "ql_walk_narrow_stance": {
+      "difficult": [
+        "Walk forward with your feet placed directly in a single line, heel touching toe.",
+        "Move ahead as if balancing on a tightrope, each foot placed precisely in front of the other.",
+        "Step forward with your feet almost crossing, staying within a very narrow track."
+      ],
+      "canonical": "A person walks forward placing each foot directly in front of the other in a very narrow straight line.",
+      "intensity": "calm"
+    },
+    "ql_walk_bouncing": {
+      "difficult": [
+        "Walk forward with a visible bounce in every step like you have springs in your shoes.",
+        "Move ahead bobbing up and down rhythmically, each step a small joyful launch.",
+        "Stride forward with an exaggerated vertical bounce on each footfall."
+      ],
+      "canonical": "A person walks forward with an obvious up-and-down bouncing motion on each step, rising higher than normal with every stride.",
+      "intensity": "calm"
+    },
+    "ql_walk_flat_back": {
+      "difficult": [
+        "Walk forward with your back held impossibly flat like you are balancing a book on your head.",
+        "Move ahead with perfect upright posture, no sway or lean in your spine at all.",
+        "Stride forward ramrod-straight as if your spine were fused into one solid rod."
+      ],
+      "canonical": "A person walks forward with the back held very straight and upright, the head level, the body moving with no side-to-side sway.",
+      "intensity": "calm"
+    },
+    "ql_walk_slouched": {
+      "difficult": [
+        "Walk forward with terrible posture, shoulders rounded forward and chin jutting out.",
+        "Move ahead slouched over like a teenager who has spent too long at a computer.",
+        "Shuffle forward with your spine curved into a permanent slump."
+      ],
+      "canonical": "A person walks forward with the shoulders rolled far forward, the upper back rounded, and the head pushed slightly ahead of the body.",
+      "intensity": "calm"
+    },
+    "ql_walk_hand_in_pocket": {
+      "difficult": [
+        "Walk forward casually with one hand stuffed into an imaginary pocket.",
+        "Stroll ahead relaxed with your right hand tucked away and your left arm swinging free.",
+        "Move forward with a lopsided casual gait, one arm stationary and the other swinging."
+      ],
+      "canonical": "A person walks forward with the right hand held still against the right thigh, the palm pressed flat, while the left arm swings naturally.",
+      "intensity": "calm"
+    },
+    "ql_walk_look_sky": {
+      "difficult": [
+        "Walk forward while staring straight up at the sky above you.",
+        "Move ahead with your face tilted all the way back, watching something high overhead.",
+        "Stride forward blindly looking up as if tracking a bird or a plane."
+      ],
+      "canonical": "A person walks forward with the head tilted far back, looking straight up, both arms held slightly out for balance.",
+      "intensity": "calm"
+    },
+    "ql_walk_look_feet": {
+      "difficult": [
+        "Walk forward staring down at your own feet the entire time.",
+        "Move ahead with your chin on your chest, watching every step you take.",
+        "Stride forward fixated on the ground directly in front of your toes."
+      ],
+      "canonical": "A person walks forward with the head bent down and the gaze fixed on the ground right in front of the feet.",
+      "intensity": "calm"
+    },
+    "ql_walk_over_shoulder": {
+      "difficult": [
+        "Walk forward while constantly looking back over your shoulder as if being followed.",
+        "Move ahead turning to glance behind you every few steps with visible anxiety.",
+        "Stride forward but keep checking what is behind you, turning your whole upper body to look."
+      ],
+      "canonical": "A person walks forward while repeatedly turning the head and upper body to look behind over the right shoulder every few steps.",
+      "intensity": "intense"
+    },
+    "ql_walk_hands_behind": {
+      "difficult": [
+        "Walk forward with both hands clasped behind your back like a professor deep in thought.",
+        "Stroll ahead holding your own hands at the small of your back, chest open.",
+        "Move forward with your arms folded behind you in a contemplative pose."
+      ],
+      "canonical": "A person walks forward with both hands held together behind the lower back, the chest open and the posture upright.",
+      "intensity": "calm"
+    },
+    "ql_walk_arms_crossed": {
+      "difficult": [
+        "Walk forward with both arms firmly crossed over your chest.",
+        "Move ahead with your arms folded, creating a closed-off defensive posture.",
+        "Stride forward while hugging your own body with crossed arms."
+      ],
+      "canonical": "A person walks forward with both arms crossed tightly over the chest, the right arm over the left.",
+      "intensity": "calm"
+    },
+    "ql_walk_hands_on_head": {
+      "difficult": [
+        "Walk forward with both hands resting on top of your head, elbows pointing out.",
+        "Move ahead as if you just finished a race and are catching your breath.",
+        "Stride forward with your fingers interlaced behind your skull."
+      ],
+      "canonical": "A person walks forward with both hands placed on top of the head, the elbows pointing out to the sides.",
+      "intensity": "calm"
+    },
+    "ql_walk_backpedal": {
+      "difficult": [
+        "Walk backward while occasionally glancing behind you to check your path.",
+        "Move in reverse with cautious steps, turning your head to see where you are going.",
+        "Retreat walking backward, looking over alternating shoulders to guide yourself."
+      ],
+      "canonical": "A person walks backward while repeatedly looking over the left shoulder then the right shoulder to see behind.",
+      "intensity": "calm"
+    },
+    "ql_walk_zigzag": {
+      "difficult": [
+        "Walk forward in a zigzag pattern, veering left then right then left again.",
+        "Move ahead like you cannot decide which direction to go, weaving back and forth.",
+        "Stride forward while constantly changing your angle like a sailboat tacking."
+      ],
+      "canonical": "A person walks forward diagonally to the left for a few steps, then diagonally to the right, then back to the left in a zigzag pattern.",
+      "intensity": "calm"
+    },
+    "ql_walk_circle": {
+      "difficult": [
+        "Walk in a slow circle around an invisible center point.",
+        "Move around an unseen object, keeping your gaze fixed on the middle as you circle.",
+        "Pace in a wide ring as if patrolling the perimeter of something."
+      ],
+      "canonical": "A person walks in a wide circle, turning slightly with each step to maintain the circular path.",
+      "intensity": "calm"
+    },
+    "ql_jog_arms_only": {
+      "difficult": [
+        "Jog forward but keep your arms completely limp and motionless at your sides.",
+        "Run ahead with dead arms that do not move at all while your legs pump.",
+        "Trot forward with your upper body completely still and your arms hanging like weights."
+      ],
+      "canonical": "A person jogs forward keeping both arms hanging completely straight and still at the sides with no swinging motion.",
+      "intensity": "calm"
+    },
+    "ql_jog_sideways": {
+      "difficult": [
+        "Jog sideways to the right, crossing one foot over the other.",
+        "Run laterally like a basketball player sliding on defense.",
+        "Move sideways at a jogging pace with quick crossover steps."
+      ],
+      "canonical": "A person jogs sideways to the right, crossing the left foot in front of the right foot with each step.",
+      "intensity": "intense"
+    },
+    "ql_jog_slow_motion": {
+      "difficult": [
+        "Jog forward in extreme slow motion as if time itself has nearly stopped.",
+        "Run ahead at one-tenth speed, each stride taking several full seconds to complete.",
+        "Move forward with the exaggerated slowness of a dream where you cannot move fast."
+      ],
+      "canonical": "A person jogs forward very very slowly, each stride taking much longer than normal, the arms moving in matching slow motion.",
+      "intensity": "calm"
+    },
+    "ql_hop_one_foot": {
+      "difficult": [
+        "Hop forward repeatedly on just your right foot, keeping the left foot lifted.",
+        "Bounce ahead on a single leg, hopping like a child playing hopscotch.",
+        "Jump forward on one foot again and again, the other leg tucked up."
+      ],
+      "canonical": "A person hops forward several times on the right foot only, keeping the left foot lifted off the ground.",
+      "intensity": "intense"
+    },
+    "ql_hop_side": {
+      "difficult": [
+        "Hop sideways to the left on both feet together like a rabbit escaping a predator.",
+        "Jump laterally with your feet glued together, bouncing leftward.",
+        "Bound to the side in quick two-footed hops."
+      ],
+      "canonical": "A person hops sideways to the left several times with both feet held tightly together.",
+      "intensity": "intense"
+    },
+    "ql_leap_frog": {
+      "difficult": [
+        "Squat low and spring forward in a giant frog leap with both hands touching the ground.",
+        "Crouch down launch yourself forward with both feet, and land in the same crouch.",
+        "Jump forward from a deep squat position, hands briefly touching the floor."
+      ],
+      "canonical": "A person crouches down with both hands touching the ground, then jumps forward with both feet together and lands back in the crouch.",
+      "intensity": "intense"
+    },
+    "ql_lunge_forward": {
+      "difficult": [
+        "Step forward into a deep lunge, bending your front knee to ninety degrees.",
+        "Drop into a long forward stance, one leg bent in front and the other stretched behind.",
+        "Take a giant step forward and lower your hips until your front thigh is parallel to the ground."
+      ],
+      "canonical": "A person takes a big step forward with the right leg and bends the right knee deeply, keeping the left leg straight behind with the left heel lifted.",
+      "intensity": "intense"
+    },
+    "ql_lunge_side": {
+      "difficult": [
+        "Step out to the side into a wide lateral lunge, one leg straight and the other deeply bent.",
+        "Drop sideways into a deep stretch, one foot sliding far out while the other stays planted.",
+        "Sink into a side lunge as if stretching before a workout."
+      ],
+      "canonical": "A person steps the right foot far out to the right side, bends the right knee deeply while keeping the left leg straight.",
+      "intensity": "calm"
+    },
+    "ql_high_knee_march": {
+      "difficult": [
+        "March in place pumping your knees up to waist height like a drum major.",
+        "Lift each knee high with every step, arms swinging in exaggerated counter-motion.",
+        "Stamp your feet down and lift your knees up in a proud parade march."
+      ],
+      "canonical": "A person marches in place lifting each knee up to waist height, the opposite arm swinging up with each knee lift.",
+      "intensity": "intense"
+    },
+    "ql_march_goose": {
+      "difficult": [
+        "March forward kicking each leg out completely straight and high with every step.",
+        "Stride ahead flinging each foot upward at a sharp angle with a stiff straight leg.",
+        "Walk forward with the rigid straight-leg kicks of a soldier on parade."
+      ],
+      "canonical": "A person walks forward kicking each leg straight out in front with the knee locked, the foot rising high with each step.",
+      "intensity": "intense"
+    },
+    "ql_march_slow_funeral": {
+      "difficult": [
+        "March forward with the slow heavy steps of a funeral procession.",
+        "Walk ahead at a solemn measured pace, each step a deliberate thud.",
+        "Move forward with the weighted dignified gait of someone bearing a heavy responsibility."
+      ],
+      "canonical": "A person walks forward very slowly taking heavy deliberate steps, the body held straight and stiff, each step landing with weight.",
+      "intensity": "calm"
+    },
+    "ql_crouch_stealth": {
+      "difficult": [
+        "Move forward in a deep crouch, placing each foot down in total silence.",
+        "Sneak ahead bent low with the exaggerated care of a cartoon spy.",
+        "Creep forward on bent knees, freezing mid-step every few seconds to listen."
+      ],
+      "canonical": "A person walks forward with both knees deeply bent, the body crouched low, placing each foot down slowly and quietly.",
+      "intensity": "calm"
+    },
+    "ql_crouch_run": {
+      "difficult": [
+        "Run forward while staying in a deep crouch the entire time.",
+        "Dash ahead with your body folded low, never rising above waist height.",
+        "Sprint forward bent over as if running under a very low ceiling."
+      ],
+      "canonical": "A person runs forward with both knees deeply bent and the body crouched very low, taking short quick steps.",
+      "intensity": "intense"
+    },
+    "ql_reach_grab_high": {
+      "difficult": [
+        "Reach up high with both hands and pull down an invisible object from above.",
+        "Stretch toward the ceiling grab something unseen and bring it down to chest level.",
+        "Stand on your toes snatch at the air above you and lower your prize."
+      ],
+      "canonical": "A person rises onto the toes, reaches both arms up high, closes both hands, and pulls them down to the chest.",
+      "intensity": "intense"
+    },
+    "ql_push_away": {
+      "difficult": [
+        "Push both hands forward as if shoving someone away from you.",
+        "Extend your arms and shove at chest height, palms flat against an invisible person.",
+        "Thrust your hands forward in a defensive push to create distance."
+      ],
+      "canonical": "A person stands and pushes both hands forward quickly at chest height with the palms facing forward.",
+      "intensity": "intense"
+    },
+    "ql_wipe_sweat": {
+      "difficult": [
+        "Wipe sweat from your forehead with the back of your hand after hard work.",
+        "Drag your hand across your brow as if you just finished something exhausting.",
+        "Brush moisture off your face with a tired sweeping gesture."
+      ],
+      "canonical": "A person stands and brings the right hand up to the forehead and wipes across it from left to right.",
+      "intensity": "calm"
+    },
+    "ql_wring_hands": {
+      "difficult": [
+        "Wring your hands together nervously like you are waiting for bad news.",
+        "Twist and squeeze your own fingers anxiously, unable to keep them still.",
+        "Knead your hands together in a display of visible anxiety."
+      ],
+      "canonical": "A person stands and rubs both hands together, twisting and squeezing the fingers with the hands held in front of the chest.",
+      "intensity": "calm"
+    },
+    "ql_count_fingers": {
+      "difficult": [
+        "Count on your fingers one by one as if tallying something important.",
+        "Touch each fingertip with your thumb in sequence, silently numbering items.",
+        "Tally invisible items by tapping each finger in order."
+      ],
+      "canonical": "A person stands and touches the thumb to each fingertip on the right hand one by one, starting with the index finger and moving to the pinky.",
+      "intensity": "calm"
+    },
+    "ql_adjust_glasses": {
+      "difficult": [
+        "Push imaginary glasses up the bridge of your nose with one finger.",
+        "Adjust invisible spectacles that have slid down while you were looking down.",
+        "Reach up and nudge your eyewear back into place with a practiced gesture."
+      ],
+      "canonical": "A person stands and brings the right index finger up to the bridge of the nose and pushes upward gently.",
+      "intensity": "calm"
+    },
+    "ql_check_watch": {
+      "difficult": [
+        "Turn your wrist and look at an imaginary watch to check the time.",
+        "Glance down at your wrist as if you are running late and need to confirm.",
+        "Rotate your forearm and stare at the back of your hand like a watch face is there."
+      ],
+      "canonical": "A person stands and lifts the left arm turning the wrist so the back of the hand faces up, then looks down at the wrist.",
+      "intensity": "calm"
+    },
+    "ql_listen_cup_ear": {
+      "difficult": [
+        "Cup your hand behind your ear and lean forward as if straining to hear something.",
+        "Tilt your head and hold your palm to your ear like you are trying to catch a distant sound.",
+        "Lean in with one hand cupped around your ear to amplify a faint noise."
+      ],
+      "canonical": "A person stands and cups the right hand behind the right ear, leaning the head slightly forward.",
+      "intensity": "calm"
+    },
+    "ql_sneeze": {
+      "difficult": [
+        "Sneeze violently into your elbow with your whole body convulsing from the force.",
+        "Whip your head forward and catch a massive sneeze in the crook of your arm.",
+        "Explode into a sudden sneeze, doubling over and burying your face in your elbow."
+      ],
+      "canonical": "A person stands and suddenly jerks the head forward while bringing the right arm up to cover the mouth and nose with the inner elbow.",
+      "intensity": "intense"
+    },
+    "ql_cough": {
+      "difficult": [
+        "Cough hard into your fist several times, your shoulders heaving with each hack.",
+        "Cover your mouth and let out a series of deep coughs that shake your whole body.",
+        "Hunch forward and cough repeatedly into your closed hand."
+      ],
+      "canonical": "A person stands and brings the right fist up to cover the mouth while hunching the shoulders forward with several coughs.",
+      "intensity": "intense"
+    },
+    "ql_stretch_yawn": {
+      "difficult": [
+        "Stretch both arms wide and yawn hugely as if you just woke up from a nap.",
+        "Reach your arms overhead and out to the sides while opening your mouth in a big yawn.",
+        "Extend your whole body in a tired morning stretch, arms reaching for the ceiling."
+      ],
+      "canonical": "A person stands and raises both arms up and out to the sides, stretching the whole body while tilting the head back slightly.",
+      "intensity": "calm"
+    },
+    "ql_shiver": {
+      "difficult": [
+        "Shiver and shake all over as if plunged into freezing water.",
+        "Tremble violently from head to toe, arms wrapped around yourself for warmth.",
+        "Vibrate with cold every muscle quivering uncontrollably."
+      ],
+      "canonical": "A person stands and shakes the whole body rapidly, both arms wrapped tightly around the torso, the shoulders hunched up.",
+      "intensity": "intense"
+    },
+    "ql_walk_sneak_comical": {
+      "difficult": [
+        "Sneak forward on tiptoes with huge exaggerated knee lifts freezing dramatically like a cartoon thief.",
+        "Creep ahead with the over-the-top stealth of a silent movie villain, all high steps and sudden freezes.",
+        "Tiptoe forward in a comically exaggerated sneak, pausing in theatrical poses every few steps."
+      ],
+      "canonical": "A person walks forward on tiptoes lifting each knee very high, stopping still in a frozen pose for a moment after every two steps.",
+      "intensity": "calm"
+    },
+    "ql_walk_stomp_giant": {
+      "difficult": [
+        "Walk forward with enormous heavy stomping steps like a giant shaking the earth.",
+        "Stomp ahead so hard that each footfall would crack the pavement beneath you.",
+        "March forward with the earth-shattering gait of a colossal titan."
+      ],
+      "canonical": "A person walks forward lifting each foot very high and bringing it down with maximum force, stomping the ground hard with every step.",
+      "intensity": "intense"
+    },
+    "ql_walk_dainty": {
+      "difficult": [
+        "Walk forward with tiny delicate ladylike steps, barely moving with each stride.",
+        "Take the smallest possible steps as if your skirt is very tight around your knees.",
+        "Move ahead mincingly with absurdly short steps that cover almost no distance."
+      ],
+      "canonical": "A person walks forward taking extremely tiny steps, the feet staying very close together, covering very little distance with each stride.",
+      "intensity": "calm"
+    },
+    "ql_walk_swagger_wide": {
+      "difficult": [
+        "Walk forward with an exaggerated swagger, shoulders rolling and hips swaying with attitude.",
+        "Stride ahead like you own every inch of ground you walk on.",
+        "Move forward with the cocky rolling gait of someone who wants everyone to notice them."
+      ],
+      "canonical": "A person walks forward with the shoulders rolling in big circles and the hips swaying dramatically from side to side with each step.",
+      "intensity": "intense"
+    },
+    "ql_walk_float_glide": {
+      "difficult": [
+        "Walk forward so smoothly that you appear to be gliding on wheels rather than stepping.",
+        "Move ahead with such fluid grace that your head stays at exactly the same height throughout.",
+        "Float forward with no visible bouncing, as if your feet never actually leave the ground."
+      ],
+      "canonical": "A person walks forward keeping the body very level with no up-and-down bouncing motion at all, each foot gliding smoothly from step to step.",
+      "intensity": "calm"
+    },
+    "ql_walk_jerk_stop": {
+      "difficult": [
+        "Walk forward with sudden jerky stops and starts like a glitching video game character.",
+        "Move ahead in stuttering fits and bursts, freezing then lurching unpredictably.",
+        "Walk a few steps freeze completely then jerk forward again as if controlled by a faulty remote."
+      ],
+      "canonical": "A person walks forward a few steps then stops abruptly and holds still, then walks forward a few more steps and stops again.",
+      "intensity": "intense"
+    },
+    "ql_walk_sidestep_sneak": {
+      "difficult": [
+        "Sneak sideways with your back pressed against an imaginary wall.",
+        "Slide along sideways in a low crouch, palms flat against an invisible surface beside you.",
+        "Edge sideways carefully as if avoiding detection, body flattened against empty air."
+      ],
+      "canonical": "A person walks sideways to the right with the body held close and low, the right shoulder leading, both hands placed flat against an invisible wall at shoulder height.",
+      "intensity": "calm"
+    },
+    "ql_walk_diagonal_cross": {
+      "difficult": [
+        "Walk forward diagonally crossing one foot far over the other with each step.",
+        "Move ahead in a grapevine pattern, stepping across and behind with alternating feet.",
+        "Weave forward sideways, crossing your legs over each other in a twisting path."
+      ],
+      "canonical": "A person walks forward diagonally, crossing the right foot over in front of the left foot with each step, moving sideways while advancing.",
+      "intensity": "calm"
+    },
+    "ql_sit_slump": {
+      "difficult": [
+        "Sit down heavily and slump forward with both elbows on your knees like you just got terrible news.",
+        "Drop onto an invisible chair and collapse forward, head in your hands.",
+        "Lower yourself into a seat and deflate, your whole body sagging with defeat."
+      ],
+      "canonical": "A person sits down and leans the upper body far forward, placing both elbows on the knees, the head hanging low between the shoulders.",
+      "intensity": "calm"
+    },
+    "ql_sit_perch": {
+      "difficult": [
+        "Sit on the very edge of an invisible chair, back perfectly straight like you are ready to spring up.",
+        "Perch tensely on the front of your seat, hands on your knees, alert and prepared.",
+        "Balance on the edge of a seat with perfect upright posture, not relaxing into the backrest at all."
+      ],
+      "canonical": "A person sits with the back held very straight and upright, both hands resting on the knees, the body positioned on the front edge of the seat.",
+      "intensity": "calm"
+    },
+    "ql_stand_from_sit": {
+      "difficult": [
+        "Push yourself up from sitting to standing using both hands on your thighs.",
+        "Rise from a seated position with effort, pressing down on your knees for support.",
+        "Stand up from sitting by bracing your hands on your legs and pushing upward."
+      ],
+      "canonical": "A person sits then places both hands on the thighs and pushes down to stand up straight.",
+      "intensity": "intense"
+    },
+    "ql_sway_side": {
+      "difficult": [
+        "Sway your whole body from side to side like a metronome keeping time.",
+        "Rock gently left and right with your feet planted, a slow pendulum motion.",
+        "Shift your weight rhythmically from one foot to the other, body swinging with the transfer."
+      ],
+      "canonical": "A person stands with both feet planted and sways the whole body to the left then to the right, shifting weight from foot to foot.",
+      "intensity": "calm"
+    },
+    "ql_rock_forward_back": {
+      "difficult": [
+        "Rock your body forward and back from your heels to your toes.",
+        "Sway gently front to back as if you cannot decide whether to step forward or retreat.",
+        "Pivot on your ankles rocking your entire body toward your toes then back toward your heels."
+      ],
+      "canonical": "A person stands and rocks the whole body forward onto the toes and then backward onto the heels, repeating the motion slowly.",
+      "intensity": "calm"
+    },
+    "ql_jog_backward": {
+      "difficult": [
+        "Jog backward while looking over your shoulder to navigate.",
+        "Run in reverse at a light pace, twisting to check behind you every few strides.",
+        "Move backward at a slow run glancing over alternating shoulders."
+      ],
+      "canonical": "A person jogs backward slowly while turning the upper body to look behind over the right shoulder then the left shoulder.",
+      "intensity": "intense"
+    },
+    "ql_run_stop_sudden": {
+      "difficult": [
+        "Run forward at full speed then screech to an abrupt halt.",
+        "Sprint ahead and then stop so suddenly you nearly topple forward.",
+        "Race forward then slam on the brakes, skidding to a stop."
+      ],
+      "canonical": "A person runs forward quickly and then stops very suddenly, planting both feet and leaning back to halt the momentum.",
+      "intensity": "intense"
+    },
+    "ql_walk_sudden_start": {
+      "difficult": [
+        "Stand completely still for a long moment then suddenly bolt forward into a walk.",
+        "Remain motionless then without warning begin walking briskly ahead.",
+        "Freeze in place then abruptly start moving forward with no transition."
+      ],
+      "canonical": "A person stands completely still for several seconds and then suddenly starts walking forward quickly.",
+      "intensity": "intense"
+    },
+    "ql_point_accuse": {
+      "difficult": [
+        "Thrust your finger forward in an aggressive accusation pointing directly at someone.",
+        "Jab your hand toward an invisible target as if identifying a guilty person.",
+        "Stab the air with your index finger in an angry pointing gesture."
+      ],
+      "canonical": "A person stands and thrusts the right arm straight forward quickly with the index finger pointing ahead, the motion sharp and sudden.",
+      "intensity": "intense"
+    },
+    "ql_raise_hand_question": {
+      "difficult": [
+        "Raise your hand in the air like a student eager to answer a question.",
+        "Shoot your arm straight up as if you desperately need the teacher to call on you.",
+        "Lift your hand high and wave it slightly to get attention."
+      ],
+      "canonical": "A person stands and raises the right arm straight up high, the palm facing forward, and wiggles the hand slightly.",
+      "intensity": "calm"
+    },
+    "ql_hand_on_heart": {
+      "difficult": [
+        "Place your right hand flat over your heart as if pledging allegiance.",
+        "Press your palm to your chest in a gesture of sincerity and honesty.",
+        "Bring your hand to your heart and hold it there with quiet solemnity."
+      ],
+      "canonical": "A person stands and places the right palm flat against the left side of the chest over the heart, and holds it there.",
+      "intensity": "calm"
+    },
+    "ql_finger_to_lips": {
+      "difficult": [
+        "Bring your index finger to your lips in a shushing gesture.",
+        "Press a finger vertically against your mouth signaling for silence.",
+        "Raise your hand and place one finger across your lips asking for quiet."
+      ],
+      "canonical": "A person stands and brings the right index finger up to press gently against the lips.",
+      "intensity": "calm"
+    },
+    "ql_thumbs_up": {
+      "difficult": [
+        "Give a big thumbs up with your right hand, arm extended forward.",
+        "Flash an enthusiastic thumbs-up gesture of approval and encouragement.",
+        "Stick your thumb upward in the universal sign for everything is great."
+      ],
+      "canonical": "A person stands and extends the right arm forward with the hand in a fist and the thumb pointing straight up.",
+      "intensity": "calm"
+    },
+    "ql_facepalm": {
+      "difficult": [
+        "Bring your palm to your forehead in a classic facepalm of utter disbelief.",
+        "Slap your hand against your face as if you cannot believe what just happened.",
+        "Drop your head forward and cover your eyes with one hand in exasperation."
+      ],
+      "canonical": "A person stands and brings the right palm up to the forehead, pressing it against the face while tilting the head forward slightly.",
+      "intensity": "calm"
+    },
+    "ql_arms_up_surrender": {
+      "difficult": [
+        "Raise both hands high in the air in a gesture of surrender.",
+        "Lift your arms above your head palms forward as if being held at gunpoint.",
+        "Throw both hands up in the universal I-give-up pose."
+      ],
+      "canonical": "A person stands and raises both arms up high with the palms facing forward, holding the pose still.",
+      "intensity": "calm"
+    },
+    "ql_both_hands_stop": {
+      "difficult": [
+        "Hold both hands out in front of you palms forward in a firm stop gesture.",
+        "Push your palms toward an invisible person signaling them to halt immediately.",
+        "Extend both arms and present your palms in the universal sign for do not come closer."
+      ],
+      "canonical": "A person stands and extends both arms straight forward with the palms facing forward and holds the position.",
+      "intensity": "intense"
+    },
+    "ql_roll_shoulders": {
+      "difficult": [
+        "Roll both shoulders in big backward circles like you are loosening up before exercise.",
+        "Shrug and rotate your shoulders around in a warm-up motion.",
+        "Circle your shoulders back and around several times to release tension."
+      ],
+      "canonical": "A person stands and rolls both shoulders in big backward circles several times.",
+      "intensity": "calm"
+    },
+    "ql_tilt_head_confused": {
+      "difficult": [
+        "Tilt your head and squint as if you do not understand what you are seeing.",
+        "Cock your head to one side in obvious confusion about what is in front of you.",
+        "Lean your ear toward your shoulder while staring at something puzzling."
+      ],
+      "canonical": "A person stands and tilts the head slowly to the right side while keeping the gaze fixed forward.",
+      "intensity": "calm"
+    },
+    "ql_look_left_right_nervous": {
+      "difficult": [
+        "Dart your eyes left and right rapidly like you are looking for an escape route.",
+        "Whip your head from side to side checking every corner of the room anxiously.",
+        "Scan your surroundings with quick jerky head turns, visibly on edge."
+      ],
+      "canonical": "A person stands and turns the head quickly to the left then quickly to the right then back to center.",
+      "intensity": "intense"
+    },
+    "ql_walk_cross_arms_stomp": {
+      "difficult": [
+        "Walk forward with arms crossed and stomping your feet in visible frustration.",
+        "March ahead pouting with folded arms, each step a punctuation of annoyance.",
+        "Stomp forward while hugging yourself, radiating I-am-not-happy energy."
+      ],
+      "canonical": "A person walks forward with both arms crossed over the chest, stomping each foot down hard with every step.",
+      "intensity": "intense"
+    },
+    "ql_walk_reading": {
+      "difficult": [
+        "Walk forward while staring down at an invisible book in your hands, completely absorbed.",
+        "Move ahead slowly turning imaginary pages, so focused you might walk into something.",
+        "Stroll forward reading intently, oblivious to the world around you."
+      ],
+      "canonical": "A person walks forward slowly holding both hands in front at chest height with the palms facing upward, the head looking down.",
+      "intensity": "calm"
+    },
+    "ql_walk_texting": {
+      "difficult": [
+        "Walk forward while staring at an invisible phone in your hands, thumbs typing rapidly.",
+        "Move ahead with your head down tapping at a screen that is not there.",
+        "Stroll forward completely distracted by the device in your palms, never looking up."
+      ],
+      "canonical": "A person walks forward slowly holding both hands low in front with the thumbs moving up and down quickly, the head bent down looking at the hands.",
+      "intensity": "calm"
+    },
+    "ql_walk_drinking": {
+      "difficult": [
+        "Walk forward while lifting an imaginary cup to your lips and sipping from it.",
+        "Stroll ahead taking casual sips from an invisible coffee mug.",
+        "Move forward bringing your hand to your mouth repeatedly as if drinking on the go."
+      ],
+      "canonical": "A person walks forward slowly while lifting the right hand to the mouth, tilting the head back slightly, then lowering the hand, repeating this motion.",
+      "intensity": "calm"
+    },
+    "ql_walk_proud_soldier": {
+      "difficult": [
+        "Walk like a soldier returning home to a heros welcome.",
+        "March forward with your chest out chin up and shoulders squared in victorious pride.",
+        "Stride ahead with the triumphant gait of someone who just won a great battle."
+      ],
+      "canonical": "A person walks forward with the chest pushed out, the shoulders pulled far back, the chin lifted high, taking long proud strides.",
+      "intensity": "intense"
+    },
+    "ql_walk_defeated": {
+      "difficult": [
+        "Walk like someone who just lost everything, head hanging and shoulders collapsed inward.",
+        "Shuffle forward with the body language of total defeat, unable to lift your gaze from the ground.",
+        "Move ahead with the crushed posture of a person who has given up completely."
+      ],
+      "canonical": "A person walks forward very slowly with the head hanging low, both shoulders slumped far forward, the arms dangling limply.",
+      "intensity": "calm"
+    },
+    "ql_walk_curious": {
+      "difficult": [
+        "Walk forward while craning your neck and peering around as if exploring somewhere new.",
+        "Move ahead with the wide-eyed wonder of someone seeing everything for the first time.",
+        "Stroll forward looking up down left and right taking in every detail of your surroundings."
+      ],
+      "canonical": "A person walks forward slowly while turning the head to look up, then down, then left, then right, examining the surroundings.",
+      "intensity": "calm"
+    },
+    "ql_walk_suspicious": {
+      "difficult": [
+        "Walk forward narrowing your eyes and scanning every corner like a detective on a case.",
+        "Move ahead with slitted eyes, body tense, scrutinizing everything you pass.",
+        "Stride forward slowly and deliberately, your gaze sweeping side to side searching for clues."
+      ],
+      "canonical": "A person walks forward slowly with the head turning from side to side in slow deliberate scans, the body held alert and tense.",
+      "intensity": "calm"
+    },
+    "ql_walk_nonchalant": {
+      "difficult": [
+        "Walk forward with an exaggerated air of not caring about anything at all.",
+        "Stroll ahead so casually that you almost look bored, hands in pockets, gaze drifting.",
+        "Move forward with the lazy indifference of someone who has all the time in the world."
+      ],
+      "canonical": "A person walks forward very slowly and casually, looking around lazily, the arms swinging in slow relaxed arcs.",
+      "intensity": "calm"
+    },
+    "ql_walk_satisfied": {
+      "difficult": [
+        "Walk forward with a visible sense of satisfaction, nodding slightly as if pleased with yourself.",
+        "Stride ahead with the contented gait of someone who just accomplished something good.",
+        "Move forward with a relaxed smile in your step, body loose and at ease."
+      ],
+      "canonical": "A person walks forward with a relaxed upright posture, the head nodding gently, both arms swinging in easy comfortable arcs.",
+      "intensity": "calm"
+    },
+    "qz_climb_ladder": {
+      "difficult": [
+        "Climb up an invisible ladder rung by rung.",
+        "Reach up grab the next rung and pull yourself higher.",
+        "Ascend hand over hand and foot over foot."
+      ],
+      "canonical": "A person reaches both arms up high alternately, closes each hand into a grip and pulls down, while lifting each knee up high in alternating steps.",
+      "intensity": "intense"
+    },
+    "qz_climb_rope": {
+      "difficult": [
+        "Haul yourself up an invisible rope hand over hand.",
+        "Grip above your head pull down and lift your body upward.",
+        "Climb a dangling rope using only your arms."
+      ],
+      "canonical": "A person reaches the right arm up high closes the hand and pulls down hard, then reaches the left arm up and pulls down, repeating this pulling motion.",
+      "intensity": "intense"
+    },
+    "qz_swim_front_crawl": {
+      "difficult": [
+        "Swim forward through the air with alternating arm strokes.",
+        "Reach one arm forward pull back then reach the other arm forward and pull.",
+        "Stroke through invisible water with an overhand swimming motion."
+      ],
+      "canonical": "A person stands and swings the right arm forward in a big circle then the left arm forward in a big circle, alternating the arm circles continuously.",
+      "intensity": "intense"
+    },
+    "qz_swim_breaststroke": {
+      "difficult": [
+        "Swim through the air pushing both arms outward and then together.",
+        "Extend both hands forward part them to the sides and sweep them back together.",
+        "Move your arms in the wide circular pattern of a breaststroke swimmer."
+      ],
+      "canonical": "A person stands and extends both arms straight forward, then sweeps them out to the sides in a wide circle and brings them back together at the chest.",
+      "intensity": "calm"
+    },
+    "qz_swim_backstroke": {
+      "difficult": [
+        "Swim backward through the air windmilling your arms in reverse.",
+        "Reach one arm back over your head and pull, then the other arm.",
+        "Stroke backward with alternating overhead arm circles."
+      ],
+      "canonical": "A person stands and swings the right arm backward in a big overhead circle then the left arm backward in a big overhead circle, alternating continuously.",
+      "intensity": "calm"
+    },
+    "qz_swim_underwater_kick": {
+      "difficult": [
+        "Kick your legs in a flutter motion as if swimming underwater.",
+        "Move your feet up and down rapidly in tiny alternating kicks.",
+        "Flutter your legs behind you like a swimmer powering through the pool."
+      ],
+      "canonical": "A person leans the upper body forward and kicks the right foot up and down quickly in small motions then the left foot up and down, alternating rapidly.",
+      "intensity": "intense"
+    },
+    "qz_row_boat": {
+      "difficult": [
+        "Row an invisible boat with both hands gripping the oars together.",
+        "Pull back on imaginary oars lean forward and pull back again.",
+        "Sit and row in a rhythmic forward-and-back motion."
+      ],
+      "canonical": "A person sits and reaches both arms forward together, closes both hands, and pulls them back to the chest in one strong motion, repeating several times.",
+      "intensity": "intense"
+    },
+    "qz_paddle_canoe": {
+      "difficult": [
+        "Paddle a canoe switching sides with each stroke.",
+        "Dip an invisible paddle into the water on one side pull back switch to the other side and pull again.",
+        "Kneel and paddle alternating left and right strokes."
+      ],
+      "canonical": "A person kneels and swings both arms together from the left side back past the body, then from the right side back past the body, alternating sides.",
+      "intensity": "calm"
+    },
+    "qz_cast_fishing": {
+      "difficult": [
+        "Cast an imaginary fishing line far out over the water.",
+        "Swing your arm back and whip it forward sending an invisible lure sailing.",
+        "Flick your wrist and launch a phantom hook across the lake."
+      ],
+      "canonical": "A person stands and swings the right arm back past the shoulder then whips it forward quickly, the wrist flicking at the end of the motion.",
+      "intensity": "calm"
+    },
+    "qz_reel_in_fish": {
+      "difficult": [
+        "Reel in a big struggling fish hand over hand.",
+        "Pull back on an invisible rod and crank an imaginary reel.",
+        "Fight against a phantom catch yanking the rod tip up and reeling fast."
+      ],
+      "canonical": "A person stands and pulls the right arm back sharply, then makes quick circular motions with the left hand near the waist, repeating several times.",
+      "intensity": "intense"
+    },
+    "qz_sweep_broom": {
+      "difficult": [
+        "Sweep the floor with an invisible broom pushing debris forward.",
+        "Hold a long handle and sweep from side to side in wide arcs.",
+        "Push an imaginary broom ahead of you clearing the ground."
+      ],
+      "canonical": "A person holds both hands together low in front and swings them from the right side across to the left side in wide sweeping motions.",
+      "intensity": "calm"
+    },
+    "qz_mop_floor": {
+      "difficult": [
+        "Mop the floor with a back and forth scrubbing motion.",
+        "Push an invisible wet mop forward and pull it back repeatedly.",
+        "Scrub the ground ahead of you with wide wet strokes."
+      ],
+      "canonical": "A person holds both hands together low in front and pushes them forward then pulls them back, repeating this back-and-forth motion.",
+      "intensity": "calm"
+    },
+    "qz_vacuum": {
+      "difficult": [
+        "Push an invisible vacuum cleaner forward and pull it back.",
+        "Move ahead slowly pushing and pulling a phantom cleaning machine.",
+        "Guide an imaginary vacuum across the floor in straight lines."
+      ],
+      "canonical": "A person holds both hands low in front and pushes them forward slowly, then pulls them back, stepping forward between each push-pull cycle.",
+      "intensity": "calm"
+    },
+    "qz_iron_clothes": {
+      "difficult": [
+        "Iron an invisible shirt on a board sweeping back and forth.",
+        "Push an imaginary hot iron across a phantom garment.",
+        "Make smooth pressing motions with your hand flat against the air."
+      ],
+      "canonical": "A person stands and moves the right hand forward and back in smooth straight strokes with the palm facing down and flat.",
+      "intensity": "calm"
+    },
+    "qz_fold_laundry": {
+      "difficult": [
+        "Fold an invisible towel by bringing your hands together then apart.",
+        "Pick up an imaginary piece of clothing bring the corners together and smooth it flat.",
+        "Lift a phantom garment and fold it neatly in half."
+      ],
+      "canonical": "A person stands and brings both hands together in front of the chest then moves them apart to the sides, then brings them together again.",
+      "intensity": "calm"
+    },
+    "qz_chop_wood": {
+      "difficult": [
+        "Swing an invisible axe down hard to split a log.",
+        "Raise both hands high gripping an imaginary axe and bring it crashing down.",
+        "Lift a heavy tool overhead and split wood with one powerful downward swing."
+      ],
+      "canonical": "A person stands and raises both arms high overhead together then swings them down hard and fast stopping abruptly at waist level.",
+      "intensity": "intense"
+    },
+    "qz_shovel_dirt": {
+      "difficult": [
+        "Shovel dirt from the ground and toss it to the side.",
+        "Stab an invisible spade into the earth scoop and fling the load away.",
+        "Dig in bend your knees lift and throw."
+      ],
+      "canonical": "A person bends the knees reaches both hands low steps on an invisible shovel with the right foot then lifts both hands up and swings them to the right side.",
+      "intensity": "intense"
+    },
+    "qz_rake_leaves": {
+      "difficult": [
+        "Rake invisible leaves toward you with long pulling motions.",
+        "Drag an imagined rake across the ground pulling debris closer.",
+        "Reach forward with both hands and scrape them back toward your body."
+      ],
+      "canonical": "A person stands and reaches both hands forward low then pulls them straight back toward the body, repeating this pulling motion.",
+      "intensity": "calm"
+    },
+    "qz_box_punching": {
+      "difficult": [
+        "Punch rapidly at an invisible punching bag alternating left and right.",
+        "Throw quick jabs and crosses at a phantom heavy bag hanging before you.",
+        "Bob and weave while launching punches at an imaginary target."
+      ],
+      "canonical": "A person stands with both fists up near the face and punches forward rapidly alternating the left fist then the right fist in quick succession.",
+      "intensity": "intense"
+    },
+    "qz_jump_rope_fast": {
+      "difficult": [
+        "Jump rope at high speed with both feet together wrists flicking fast.",
+        "Skip an invisible rope as fast as you can bouncing on the balls of your feet.",
+        "Hop rapidly in place while your hands spin an imaginary jump rope."
+      ],
+      "canonical": "A person stands in place and jumps up and down quickly on both feet while both wrists make fast small circles at the sides.",
+      "intensity": "intense"
+    },
+    "qz_burpee": {
+      "difficult": [
+        "Drop into a squat kick your legs back do a pushup then jump back up.",
+        "Squat down thrust your feet behind you lower your chest to the ground push up and leap.",
+        "Do an explosive burpee from standing to the floor and back to standing."
+      ],
+      "canonical": "A person crouches down places both hands on the ground kicks both legs straight back then pulls them back in and jumps straight up.",
+      "intensity": "intense"
+    },
+    "qz_mountain_climber": {
+      "difficult": [
+        "Drive your knees to your chest rapidly from a pushup position.",
+        "Pump your legs one at a time up toward your elbows while holding a plank.",
+        "Run in place horizontally alternating your knees forward as fast as you can."
+      ],
+      "canonical": "A person holds both hands on the ground with the body straight and drives the right knee forward toward the chest then the left knee forward rapidly alternating.",
+      "intensity": "intense"
+    },
+    "qz_side_shuffle": {
+      "difficult": [
+        "Shuffle sideways quickly staying low like a basketball defender.",
+        "Slide to the side rapidly crossing your trailing leg behind.",
+        "Move laterally in a fast defensive crouch."
+      ],
+      "canonical": "A person crouches low with both arms out to the sides and steps quickly to the right bringing the left foot to meet the right foot each time.",
+      "intensity": "intense"
+    },
+    "qz_karaoke_step": {
+      "difficult": [
+        "Step sideways crossing one foot behind the other in a grapevine pattern.",
+        "Do the karaoke drill stepping right cross behind step right cross in front.",
+        "Move laterally in a twisting crossover dance step."
+      ],
+      "canonical": "A person steps the right foot to the right then crosses the left foot behind the right then steps the right foot right again then crosses the left foot in front.",
+      "intensity": "calm"
+    },
+    "qz_toy_soldier_march": {
+      "difficult": [
+        "March with completely stiff straight legs swinging your arms in rigid arcs.",
+        "Walk like a wind-up toy soldier, every joint moving in mechanical clicks.",
+        "Stride forward with your legs never bending at the knee and your arms swinging like pendulums."
+      ],
+      "canonical": "A person walks forward keeping both legs completely straight with each step, swinging each leg from the hip, the arms swinging in short stiff arcs.",
+      "intensity": "intense"
+    },
+    "qz_frankenstein_walk": {
+      "difficult": [
+        "Walk like Frankensteins monster with arms straight out and stiff lurching legs.",
+        "Stomp forward rigidly with both arms extended straight ahead.",
+        "Move with the stiff-legged lurch of a reanimated creature."
+      ],
+      "canonical": "A person walks forward with both arms reaching straight forward, both legs kept very stiff, the body swaying from side to side with each heavy step.",
+      "intensity": "intense"
+    },
+    "qz_mummy_shuffle": {
+      "difficult": [
+        "Shuffle forward with both arms reaching straight ahead like a wrapped mummy.",
+        "Drag your feet forward without bending your knees arms stretched toward your target.",
+        "Move ahead rigidly with bandaged limbs extended in front."
+      ],
+      "canonical": "A person walks forward with both arms reaching straight forward, the feet sliding along the ground in short shuffling steps.",
+      "intensity": "calm"
+    },
+    "qz_werewolf_prowl": {
+      "difficult": [
+        "Prowl forward hunched over with arms swinging in wide low arcs like a beast.",
+        "Stalk ahead on two legs with a predatory slouch arms sweeping low.",
+        "Move forward like a lycanthrope stalking prey."
+      ],
+      "canonical": "A person walks forward with the body hunched far forward, both arms swinging in very wide low arcs across the front of the body.",
+      "intensity": "intense"
+    },
+    "qz_vampire_glide": {
+      "difficult": [
+        "Walk forward eerily smooth and silent as if gliding inches above the ground.",
+        "Move ahead with the supernatural grace of the undead feet seeming to float.",
+        "Stride forward so smoothly you appear to drift rather than walk."
+      ],
+      "canonical": "A person walks forward very slowly with the body held very tall and stiff, each step placed so smoothly that the movement appears to glide.",
+      "intensity": "calm"
+    },
+    "qz_stagger_dizzy": {
+      "difficult": [
+        "Stagger forward clutching your head as if the world is spinning violently.",
+        "Lurch ahead disoriented one hand on your temple the other reaching for support.",
+        "Weave forward dizzy and nauseous barely able to stay upright."
+      ],
+      "canonical": "A person walks forward swaying and lurching heavily placing one hand on the side of the head, the other arm held out for balance.",
+      "intensity": "intense"
+    },
+    "qz_walk_cane": {
+      "difficult": [
+        "Walk forward with a limp using an invisible cane in your right hand.",
+        "Hobble ahead planting an imaginary walking stick with each step.",
+        "Move forward favoring one leg while an unseen cane supports your weight."
+      ],
+      "canonical": "A person walks forward limping with the right hand held out to the side and pressing down with each right leg step, the right leg bearing less weight.",
+      "intensity": "calm"
+    },
+    "qz_walk_walker": {
+      "difficult": [
+        "Shuffle forward pushing an invisible walker ahead of you.",
+        "Slide an unseen frame forward take two small steps then slide it again.",
+        "Move ahead slowly with the halting gait of someone using a walking frame."
+      ],
+      "canonical": "A person walks forward very slowly with both hands held forward at waist height, pushing the hands slightly ahead then taking two small shuffling steps.",
+      "intensity": "calm"
+    },
+    "qz_walk_crutches": {
+      "difficult": [
+        "Walk forward swinging both legs through as if using crutches.",
+        "Plant invisible crutches ahead of you and swing your body forward.",
+        "Move ahead with the rhythmic swing-through gait of someone on underarm crutches."
+      ],
+      "canonical": "A person walks forward with both arms held stiff at the sides supporting weight, swinging both legs forward together between each step.",
+      "intensity": "calm"
+    },
+    "qz_crawl_injured": {
+      "difficult": [
+        "Drag yourself forward with one arm while the other arm hangs useless at your side.",
+        "Crawl ahead using only your left arm the right arm dangling broken.",
+        "Pull your body across the ground with one functional limb."
+      ],
+      "canonical": "A person lies on the belly and pulls the body forward using only the left arm, the right arm dragging limp and motionless at the side.",
+      "intensity": "intense"
+    },
+    "qz_walk_leg_drag": {
+      "difficult": [
+        "Walk forward with one leg dragging completely useless behind you.",
+        "Stride ahead with the left leg while the right leg hangs limp and gets pulled along.",
+        "Move forward dragging a dead leg that cannot support any weight."
+      ],
+      "canonical": "A person walks forward with the left leg stepping normally while the right leg stays straight and drags along the ground behind.",
+      "intensity": "calm"
+    },
+    "qz_walk_sneer": {
+      "difficult": [
+        "Walk forward with a visible sneer looking down your nose at everything around you.",
+        "Stride ahead with contempt written in every step and the tilt of your chin.",
+        "Move forward radiating disdain chin raised and lips curled."
+      ],
+      "canonical": "A person walks forward with the chin lifted very high the head tilted slightly back and the shoulders pulled far back.",
+      "intensity": "intense"
+    },
+    "qz_walk_terrified": {
+      "difficult": [
+        "Walk forward trembling with every step as if approaching something unspeakably frightening.",
+        "Move ahead shaking visibly each foot placed with terrified hesitation.",
+        "Shuffle forward with the wide-eyed rigid gait of someone facing their worst fear."
+      ],
+      "canonical": "A person walks forward very slowly with both arms held stiff at the sides, the body trembling slightly, each step small and hesitant.",
+      "intensity": "calm"
+    },
+    "qz_walk_determined": {
+      "difficult": [
+        "Walk forward with the unstoppable determination of someone who will not be turned back.",
+        "Stride ahead jaw set eyes locked on a distant goal each step a statement of resolve.",
+        "March forward with fierce purpose nothing can distract you from your path."
+      ],
+      "canonical": "A person walks forward with long fast deliberate strides the body leaning slightly forward both arms swinging strongly.",
+      "intensity": "intense"
+    },
+    "qz_walk_daydreaming": {
+      "difficult": [
+        "Walk forward with a dreamy faraway look in your eyes barely aware of your surroundings.",
+        "Stroll ahead in a haze drifting slightly off course as your mind wanders.",
+        "Move forward in a pleasant daze your feet on autopilot while your thoughts are elsewhere."
+      ],
+      "canonical": "A person walks forward slowly with the head tilted slightly up and to the side the arms swinging in very slow lazy arcs.",
+      "intensity": "calm"
+    },
+    "qz_dodge_left": {
+      "difficult": [
+        "Sidestep quickly to the left as if dodging something thrown at you.",
+        "Jerk your whole body to the left in a sudden evasive motion.",
+        "Leap sideways to avoid an incoming object."
+      ],
+      "canonical": "A person stands and suddenly jumps both feet to the left side while leaning the upper body sharply to the left.",
+      "intensity": "intense"
+    },
+    "qz_duck_sudden": {
+      "difficult": [
+        "Duck down suddenly as if something just flew at your head.",
+        "Drop into a crouch instantly to avoid being hit from above.",
+        "Bob down sharply out of the path of an invisible projectile."
+      ],
+      "canonical": "A person stands and bends both knees quickly dropping the body straight down with the head ducking low.",
+      "intensity": "intense"
+    },
+    "qz_block_high": {
+      "difficult": [
+        "Raise both arms above your head to block an imaginary strike from above.",
+        "Cross your forearms over your head in a protective shield.",
+        "Guard your skull with both arms against an unseen blow."
+      ],
+      "canonical": "A person stands and quickly raises both arms above the head crossing the forearms and holding them firmly overhead.",
+      "intensity": "intense"
+    },
+    "qz_kick_low": {
+      "difficult": [
+        "Sweep your leg low across the ground as if kicking someones feet out from under them.",
+        "Execute a low spinning leg sweep just above the floor.",
+        "Whip one leg around in a low arc to trip an invisible opponent."
+      ],
+      "canonical": "A person crouches slightly and swings the right leg in a wide low arc just above the ground from right to left.",
+      "intensity": "intense"
+    },
+    "qz_throw_sidearm": {
+      "difficult": [
+        "Fling an invisible frisbee sideways with a sharp flick of your wrist.",
+        "Hurl a phantom disc with a sidearm snapping motion.",
+        "Launch something spinning through the air with a quick lateral throw."
+      ],
+      "canonical": "A person stands and swings the right arm across the body from left to right with a sharp flick of the wrist at the end.",
+      "intensity": "intense"
+    },
+    "qz_catch_high": {
+      "difficult": [
+        "Reach up with both hands and catch an invisible ball falling from above.",
+        "Snatch something out of the air above your head and bring it down.",
+        "Look up extend your arms and grab a phantom object before it hits the ground."
+      ],
+      "canonical": "A person looks up and reaches both arms high overhead with both hands open, then closes both hands and brings them down to the chest.",
+      "intensity": "intense"
+    },
+    "qz_catch_low": {
+      "difficult": [
+        "Bend down and scoop up an invisible rolling ball from near your feet.",
+        "Stoop quickly and gather something from the ground with both hands.",
+        "Drop low and intercept a phantom object skimming across the floor."
+      ],
+      "canonical": "A person bends the knees and reaches both hands down close to the ground, scoops the hands together and brings them up.",
+      "intensity": "calm"
+    },
+    "qz_dribble_ball": {
+      "difficult": [
+        "Dribble an invisible basketball with your right hand while walking forward.",
+        "Bounce a phantom ball at your side with each step.",
+        "Walk ahead pushing an imaginary ball down to the floor with each stride."
+      ],
+      "canonical": "A person walks forward while pushing the right hand down toward the ground repeatedly with the palm facing down.",
+      "intensity": "calm"
+    },
+    "qz_tennis_serve": {
+      "difficult": [
+        "Toss an invisible tennis ball up and smash it with an overhead serve.",
+        "Lift one hand to release a phantom ball and swing the other arm up to strike it.",
+        "Throw something skyward and bring your racquet arm crashing down."
+      ],
+      "canonical": "A person stands and raises the left hand up releasing something skyward then swings the right arm up and forward in a powerful overhead serving motion.",
+      "intensity": "intense"
+    },
+    "qz_golf_swing": {
+      "difficult": [
+        "Take a smooth golf swing twisting your whole body into the follow-through.",
+        "Address an invisible ball rotate back and swing through with precision.",
+        "Plant your feet turn your hips and drive an imaginary golf ball into the distance."
+      ],
+      "canonical": "A person stands sideways with both hands held together low, twists the upper body to the right then swings both arms through to the left and up high.",
+      "intensity": "intense"
+    },
+    "qz_baseball_swing": {
+      "difficult": [
+        "Swing an invisible baseball bat level across your body with full rotation.",
+        "Grip a phantom bat plant your feet and take a mighty horizontal swing.",
+        "Twist your hips and shoulders into a powerful batting stance and follow through."
+      ],
+      "canonical": "A person stands and swings both arms together from behind the right shoulder across the body to the left side in one powerful horizontal motion.",
+      "intensity": "intense"
+    },
+    "qz_bowl": {
+      "difficult": [
+        "Bowl an invisible ball down an imaginary lane.",
+        "Step forward swing your arm back and release a phantom bowling ball.",
+        "Approach the line and roll a heavy ball toward unseen pins."
+      ],
+      "canonical": "A person steps forward with the left foot and swings the right arm back then forward low releasing an imaginary ball toward the ground ahead.",
+      "intensity": "calm"
+    }
+  }
+}

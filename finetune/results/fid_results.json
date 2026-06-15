@@ -1,0 +1,7 @@
+{
+  "pretrained_fid": 15.017815655392448,
+  "finetuned_fid": 15.498201163664241,
+  "improvement_pct": -3.2,
+  "n_real": 100,
+  "n_gen": 100
+}
