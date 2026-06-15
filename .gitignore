@@ -20,7 +20,7 @@ Models/
 out/
 
 # API keys
-DingHao/Generation/llm_config.py
+LLM_Enhance/Generation/llm_config.py
 
 # Reports (not part of codebase)
 final_report/

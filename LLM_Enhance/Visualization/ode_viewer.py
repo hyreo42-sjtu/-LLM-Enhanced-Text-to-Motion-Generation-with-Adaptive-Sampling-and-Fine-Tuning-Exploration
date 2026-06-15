@@ -1,7 +1,7 @@
 """ODE drawstuff OpenGL 3D viewer — volumetric body segments via drawstuff.
 
 Usage:
-  from DingHao.Visualization.ode_viewer import ODEViewer
+  from LLM_Enhance.Visualization.ode_viewer import ODEViewer
   viewer = ODEViewer(env, center=root_pos)   # center on character
   viewer.start()                              # launch GLUT window
   viewer.start_recording()                    # start screen capture

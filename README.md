@@ -5,7 +5,7 @@ Two-person project for language-guided 3D character motion generation, built on 
 ## Repository Structure
 
 ```
-├── DingHao/                       # Ding Hao: LLM pipeline + sampling + visualization
+├── LLM_Enhance/                       # Ding Hao: LLM pipeline + sampling + visualization
 │   ├── Generation/                # Inference pipeline
 │   │   ├── generate.py            # Main entry: text → BVH + GIF + 3D view
 │   │   ├── prompt_engine.py       # DeepSeek-V4 API + strategy mapping + fallback
@@ -27,16 +27,16 @@ Two-person project for language-guided 3D character motion generation, built on 
 ## Setup
 
 1. Clone MoConVQ into the parent directory
-2. `cp DingHao/Generation/llm_config_example.py DingHao/Generation/llm_config.py` and add your API key
+2. `cp LLM_Enhance/Generation/llm_config_example.py LLM_Enhance/Generation/llm_config.py` and add your API key
 3. `conda install -c conda-forge freeglut glew` (for OpenGL 3D viewer)
 
 ## Usage
 
 ```bash
 # LLM pipeline (Ding Hao)
-python DingHao/Generation/generate.py --prompt "A person kicks."          # generate
-python DingHao/Generation/generate.py --prompt "A person dances." --viewer # + 3D view
-python DingHao/Generation/generate.py --prompt "A person kicks." --record  # + 3D GIF
+python LLM_Enhance/Generation/generate.py --prompt "A person kicks."          # generate
+python LLM_Enhance/Generation/generate.py --prompt "A person dances." --viewer # + 3D view
+python LLM_Enhance/Generation/generate.py --prompt "A person kicks." --record  # + 3D GIF
 
 # Fine-tuning (Huang Youran)
 # See finetune/README.md

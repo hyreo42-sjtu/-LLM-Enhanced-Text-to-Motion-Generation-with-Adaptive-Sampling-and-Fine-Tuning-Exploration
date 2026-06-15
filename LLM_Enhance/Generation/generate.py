@@ -12,7 +12,7 @@ import sys
 import os
 
 # Ensure MoConVQ/ and project root are on the Python path
-# DingHao/Generation/generate.py -> DingHao/ -> project root
+# LLM_Enhance/Generation/generate.py -> LLM_Enhance/ -> project root
 _PROJECT_ROOT = os.path.dirname(os.path.dirname(os.path.dirname(os.path.abspath(__file__))))
 _MOCONVQ_ROOT = os.path.join(_PROJECT_ROOT, "MoConVQ")
 sys.path.insert(0, _PROJECT_ROOT)
@@ -27,8 +27,8 @@ from torch.distributions import Categorical
 from MoConVQCore.Model.cross_trans_ori_fixsum import Text2Motion_Transformer
 import MoConVQCore.Utils.pytorch_utils as ptu
 
-from DingHao.Generation.sampling_strategies import SamplingConfig, get_strategy, PRESETS, DEFAULT_STRATEGY
-from DingHao.Generation.prompt_engine import PromptEngine
+from LLM_Enhance.Generation.sampling_strategies import SamplingConfig, get_strategy, PRESETS, DEFAULT_STRATEGY
+from LLM_Enhance.Generation.prompt_engine import PromptEngine
 
 
 # ── T5 text encoder ──────────────────────────────────────────────────
@@ -133,7 +133,7 @@ class Trainer:
         # can target the character's actual spawn position.
         viewer = None
         if use_viewer:
-            from DingHao.Visualization.ode_viewer import ODEViewer
+            from LLM_Enhance.Visualization.ode_viewer import ODEViewer
             root_pos = agent.env.sim_character.root_body.PositionNumpy
             viewer = ODEViewer(agent.env, center=root_pos)
             viewer.start()
@@ -192,7 +192,7 @@ class Trainer:
         saver.to_file(bvh_path)
 
         try:
-            from DingHao.Visualization.bvh_visualizer import visualize_bvh
+            from LLM_Enhance.Visualization.bvh_visualizer import visualize_bvh
             gif_path = os.path.join(out_dir, f'evaluate_gpt{idx}.gif')
             print(f'  Rendering skeleton visualization ...')
             visualize_bvh(bvh_path, gif_path, output_fps=30)
@@ -200,7 +200,7 @@ class Trainer:
             print(f'  Single-angle viz skipped (non-fatal): {e}')
 
         try:
-            from DingHao.Visualization.multi_angle_viewer import visualize_multi_angle
+            from LLM_Enhance.Visualization.multi_angle_viewer import visualize_multi_angle
             multi_path = os.path.join(out_dir, f'evaluate_gpt{idx}_multi.gif')
             print(f'  Rendering multi-angle 3D view ...')
             visualize_multi_angle(bvh_path, multi_path, output_fps=15, dpi=100)

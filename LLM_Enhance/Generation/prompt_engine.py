@@ -15,25 +15,25 @@ from typing import Dict, Optional
 import requests
 
 try:
-    from DingHao.Generation.llm_config import (
+    from LLM_Enhance.Generation.llm_config import (
         DEEPSEEK_API_KEY, DEEPSEEK_API_URL, DEEPSEEK_MODEL,
         LLM_TEMPERATURE, LLM_MAX_TOKENS, LLM_TIMEOUT,
     )
-    from DingHao.Generation.llm_prompt import SYSTEM_PROMPT, FEATURE_KEYS, LEGACY_NUMERIC_KEYS
+    from LLM_Enhance.Generation.llm_prompt import SYSTEM_PROMPT, FEATURE_KEYS, LEGACY_NUMERIC_KEYS
 except ModuleNotFoundError:
     try:
-        # Running from DingHao/Generation/
-        from DingHao.Generation.llm_config import (
+        # Running from LLM_Enhance/Generation/
+        from LLM_Enhance.Generation.llm_config import (
             DEEPSEEK_API_KEY, DEEPSEEK_API_URL, DEEPSEEK_MODEL,
             LLM_TEMPERATURE, LLM_MAX_TOKENS, LLM_TIMEOUT,
         )
-        from DingHao.Generation.llm_prompt import SYSTEM_PROMPT, FEATURE_KEYS, LEGACY_NUMERIC_KEYS
+        from LLM_Enhance.Generation.llm_prompt import SYSTEM_PROMPT, FEATURE_KEYS, LEGACY_NUMERIC_KEYS
     except ModuleNotFoundError:
-        from DingHao.Generation.llm_config_example import (
+        from LLM_Enhance.Generation.llm_config_example import (
             DEEPSEEK_API_KEY, DEEPSEEK_API_URL, DEEPSEEK_MODEL,
             LLM_TEMPERATURE, LLM_MAX_TOKENS, LLM_TIMEOUT,
         )
-        from DingHao.Generation.llm_prompt import SYSTEM_PROMPT, FEATURE_KEYS, LEGACY_NUMERIC_KEYS
+        from LLM_Enhance.Generation.llm_prompt import SYSTEM_PROMPT, FEATURE_KEYS, LEGACY_NUMERIC_KEYS
         import warnings
         warnings.warn(
             'Using example API key. Copy Generation/llm_config.example.py '
