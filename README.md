@@ -46,5 +46,5 @@ python LLM_Enhance/Generation/generate.py --prompt "A person kicks." --record  #
 
 - **92%** zero-shot strategy classification accuracy (DeepSeek-V4)
 - 5 adaptive sampling strategies via LLM semantic analysis
-- Fine-tuning explored on augmented Bandai Namco data (overfitting identified)
+- See /finetune for the results of finetune
 - Native ODE OpenGL 3D viewer with volumetric rendering
